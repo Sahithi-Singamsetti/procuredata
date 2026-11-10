@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-The Spend Analytics module is the first module of ProcureIQ, a procurement analytics platform designed to help organizations understand and analyze their procurement spending.
+The Spend Analytics module is the first module of ProcureData, a procurement analytics platform designed to help organizations understand and analyze their procurement spending.
 
 The module processes procurement transaction data, stores it in a PostgreSQL database, and presents interactive insights through a Streamlit dashboard.
 
@@ -94,7 +94,7 @@ The original raw dataset was preserved without modification.
 
 ## 5. Database Integration
 
-ProcureIQ uses PostgreSQL 18.6 as its relational database management system.
+ProcureData uses PostgreSQL 18.6 as its relational database management system.
 
 ### Database Configuration
 

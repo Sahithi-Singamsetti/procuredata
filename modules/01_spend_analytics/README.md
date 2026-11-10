@@ -3,7 +3,7 @@
 
 ## Overview
 
-Spend Analytics is the first implemented module of ProcureIQ, a procurement analytics platform designed to support procurement data processing, spending analysis, supplier insights, and data-driven decision-making.
+Spend Analytics is the first implemented module of ProcureData, a procurement analytics platform designed to support procurement data processing, spending analysis, supplier insights, and data-driven decision-making.
 
 This module analyses NASA federal procurement contract transactions from FY2025 to identify spending patterns, supplier distribution, monthly trends, and procurement categories.
 
@@ -115,7 +115,7 @@ The following scripts are maintained in the `notebooks/` directory:
 
 ## Setup and Execution
 
-Run the following commands from the ProcureIQ project root directory.
+Run the following commands from the ProcureData project root directory.
 
 ### 1. Create and activate a virtual environment
 

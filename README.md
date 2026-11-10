@@ -1,7 +1,7 @@
 
-# ProcureIQ
+# ProcureData
 
-ProcureIQ is a procurement analytics platform designed to support procurement data processing, spend analysis, supplier insights, and data-driven decision-making using analytics, machine learning, and automation.
+ProcureData is a procurement analytics platform designed to support procurement data processing, spend analysis, supplier insights, and data-driven decision-making using analytics, machine learning, and automation.
 
 The project is planned to include seven modules. Spend Analytics (Module 1) is the first implemented module; the remaining modules are currently scaffolded for future development.
 
@@ -52,7 +52,7 @@ The project is planned to include seven modules. Spend Analytics (Module 1) is t
 
 ```powershell
 git clone <REPOSITORY_URL>
-cd ProcureIQ
+cd ProcureData
 ```
 
 ### 2. Create and activate a virtual environment
