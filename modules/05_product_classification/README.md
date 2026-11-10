@@ -1,0 +1,1 @@
+# Product Categories\n\nGoal: Classify procurement descriptions into defined categories and evaluate model performance.\n\nRecord dataset source, download date, field definitions, and key decisions here.\n

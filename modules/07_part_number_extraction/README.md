@@ -1,0 +1,1 @@
+# Part Number Extraction\n\nGoal: Extract part numbers from synthetic product descriptions and compare approaches.\n\nRecord dataset source, download date, field definitions, and key decisions here.\n

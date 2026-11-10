@@ -1,0 +1,1 @@
+# Data Quality Checker\n\nGoal: Generate synthetic purchase files and detect planted quality issues without false alarms on clean data.\n\nRecord dataset source, download date, field definitions, and key decisions here.\n

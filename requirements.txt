@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+psycopg[binary]
+scikit-learn
+rapidfuzz
+faker
+plotly
+matplotlib
+seaborn
+openpyxl
+pytest
+python-dotenv

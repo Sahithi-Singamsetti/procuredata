@@ -1,0 +1,1 @@
+# Architecture\n\nDocument module boundaries, shared interfaces, data flow, and integration decisions here.\n

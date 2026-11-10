@@ -1,0 +1,1 @@
+# Shared utilities\n\nReusable code only. Keep project-specific logic inside its own module.\n

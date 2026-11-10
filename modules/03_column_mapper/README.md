@@ -1,0 +1,1 @@
+# Smart Column Mapper\n\nGoal: Map varied source column names to a standard schema and flag uncertain matches for human review.\n\nRecord dataset source, download date, field definitions, and key decisions here.\n

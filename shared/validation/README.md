@@ -1,0 +1,1 @@
+# Reusable validation helpers; keep project-specific rules in each module\n

@@ -1,0 +1,1 @@
+# Supplier Name Matching\n\nGoal: Identify likely duplicate supplier names while minimizing false merges.\n\nRecord dataset source, download date, field definitions, and key decisions here.\n

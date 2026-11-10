@@ -1,0 +1,1 @@
+# Price Comparison and Savings\n\nGoal: Compare normalized product prices and estimate potential savings using a documented benchmark.\n\nRecord dataset source, download date, field definitions, and key decisions here.\n
