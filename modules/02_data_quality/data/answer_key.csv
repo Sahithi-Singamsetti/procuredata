@@ -1,0 +1,20 @@
+file_name,row_number,column,issue_type,expected_condition,actual_value,reference_row
+purchases_01.csv,2,supplier,blank_value,Supplier must not be blank,,
+purchases_01.csv,3,item,blank_value,Item must not be blank,,
+purchases_01.csv,4,date,blank_value,Date must not be blank,,
+purchases_02.csv,2,unit_price,invalid_price,Unit price must be greater than zero,0.00,
+purchases_02.csv,3,unit_price,invalid_price,Unit price must be greater than zero,-25.50,
+purchases_02.csv,4,quantity,non_numeric_value,Quantity must be numeric,many,
+purchases_02.csv,5,unit_price,non_numeric_value,Unit price must be numeric,unknown,
+purchases_02.csv,6,total,non_numeric_value,Total must be numeric,pending,
+purchases_03.csv,2,total,incorrect_total,"Total must equal quantity multiplied by unit price, within 0.01",261.85,
+purchases_03.csv,3,total,incorrect_total,"Total must equal quantity multiplied by unit price, within 0.01",5814.14,
+purchases_03.csv,52,all columns,duplicate_row,Each complete purchase row must be unique,Duplicate of CSV row 51,51
+purchases_04.csv,2,date,future_date,Purchase date must not be in the future,2099-01-01,
+purchases_04.csv,3,date,invalid_date,Date must use YYYY-MM-DD format,31/12/2025,
+purchases_05.csv,2,supplier,blank_value,Supplier must not be blank,,
+purchases_05.csv,3,unit_price,invalid_price,Unit price must be greater than zero,-10.00,
+purchases_05.csv,4,quantity,non_numeric_value,Quantity must be numeric,several,
+purchases_05.csv,5,date,future_date,Purchase date must not be in the future,2099-06-15,
+purchases_05.csv,6,total,incorrect_total,"Total must equal quantity multiplied by unit price, within 0.01",4059.90,
+purchases_05.csv,8,all columns,duplicate_row,Each complete purchase row must be unique,Duplicate of CSV row 7,7

@@ -51,3 +51,8 @@ modules/*/data/*
 !modules/*/data/*/
 modules/*/data/*/*
 !modules/*/data/*/.gitkeep
+
+# Module 2 Data Quality Checker deliverables
+!modules/02_data_quality/data/answer_key.csv
+!modules/02_data_quality/data/generated/*.csv
+!modules/02_data_quality/data/input/*.csv

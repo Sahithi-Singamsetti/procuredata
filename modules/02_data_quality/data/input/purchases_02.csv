@@ -1,0 +1,1001 @@
+date,supplier,item,quantity,unit_price,total
+2026-05-12,Johnson LLC,USB Cable,15,0.00,260.85
+2025-07-10,Taylor Inc,Headphones,36,-25.50,5813.64
+2026-06-10,"Mcclain, Miller and Henderson",Keyboard,many,483.65,8705.70
+2025-01-24,Robinson PLC,Desktop Computer,87,unknown,42316.80
+2026-04-13,Hoffman Ltd,Power Supply,70,57.97,pending
+2026-05-20,"Gardner, Robinson and Lawrence",External Hard Drive,55,21.82,1200.10
+2026-09-21,Blake and Sons,Laptop,12,144.28,1731.36
+2026-06-27,Peterson-Moore,Keyboard,65,395.53,25709.45
+2026-08-17,Garcia-James,Laptop,72,131.31,9454.32
+2025-10-06,Munoz-Roman,Headphones,84,460.62,38692.08
+2026-07-21,Herrera-Dudley,Network Switch,54,145.46,7854.84
+2025-10-22,Arnold Ltd,Desk,76,183.31,13931.56
+2026-04-26,Ray-Bush,Webcam,1,498.29,498.29
+2025-02-05,"Perez, Roberts and Miller",Webcam,21,458.53,9629.13
+2025-06-30,James Group,Office Chair,44,183.10,8056.40
+2026-05-09,Martin-Kelly,Monitor,28,221.59,6204.52
+2026-06-05,Miles-Sutton,Desktop Computer,12,249.98,2999.76
+2025-02-25,"Reid, Ferguson and Sanchez",Desktop Computer,46,226.41,10414.86
+2025-12-26,Nelson-Schaefer,External Hard Drive,34,29.47,1001.98
+2026-06-19,"Robinson, Nguyen and Tate",Headphones,59,352.42,20792.78
+2025-02-13,Underwood LLC,Desktop Computer,49,52.64,2579.36
+2025-11-08,Jones-Gentry,Network Switch,38,412.98,15693.24
+2026-03-17,"Edwards, Rios and Foster",External Hard Drive,47,379.37,17830.39
+2026-05-15,Thomas-Taylor,Keyboard,91,46.58,4238.78
+2026-08-02,"Ryan, Burgess and Patterson",Laptop,85,150.35,12779.75
+2026-03-30,Cox-Osborn,Webcam,38,53.29,2025.02
+2025-04-18,"Snyder, Campos and Callahan",Router,30,67.19,2015.70
+2025-04-29,"Moore, Becker and Carlson",Office Chair,36,298.14,10733.04
+2025-10-26,Carlson-Mcdonald,USB Cable,47,107.59,5056.73
+2025-07-15,"Valencia, Smith and Le",Printer,46,138.30,6361.80
+2026-06-14,"Potter, Mack and Peterson",USB Cable,35,460.94,16132.90
+2025-08-16,Moore-Smith,Power Supply,88,425.69,37460.72
+2026-07-15,"Baker, Mason and White",Desktop Computer,78,417.13,32536.14
+2025-03-24,"Evans, Fowler and Lynch",Monitor,69,478.84,33039.96
+2025-04-29,Farmer-Ryan,Keyboard,21,303.94,6382.74
+2026-08-28,"Sellers, George and Burns",Office Chair,35,420.43,14715.05
+2025-03-28,Koch-Decker,Headphones,72,144.92,10434.24
+2025-08-27,Brown PLC,USB Cable,42,37.65,1581.30
+2025-03-03,Dennis Inc,Keyboard,5,207.73,1038.65
+2026-08-14,"Cannon, Anderson and Alvarez",Office Chair,35,44.37,1552.95
+2026-03-04,Baker PLC,Keyboard,73,471.49,34418.77
+2025-11-25,Hickman Ltd,Printer,28,430.54,12055.12
+2026-06-20,Marquez Group,Desk,51,422.29,21536.79
+2026-06-06,"Brooks, Lam and Hayes",Desk,19,174.59,3317.21
+2025-07-12,Brown Inc,Monitor,32,489.23,15655.36
+2026-04-02,"Hall, Robinson and Jones",Network Switch,69,173.19,11950.11
+2026-05-06,Perez Inc,Headphones,75,281.77,21132.75
+2026-10-30,Jones-Young,Power Supply,75,262.75,19706.25
+2026-06-04,Lewis-Anderson,Printer,29,91.65,2657.85
+2026-03-20,"Kennedy, Mueller and Aguirre",Network Switch,64,60.57,3876.48
+2025-05-28,Davis Group,Webcam,7,72.85,509.95
+2025-10-03,Jenkins-Shields,Monitor,81,105.84,8573.04
+2025-02-12,"Valdez, Lucas and Brown",Webcam,88,277.66,24434.08
+2026-07-20,Mcbride-Rodriguez,External Hard Drive,9,253.16,2278.44
+2025-05-29,Herrera and Sons,Office Chair,77,307.74,23695.98
+2025-11-24,Ramirez and Sons,Network Switch,33,363.56,11997.48
+2025-02-28,Morton-Chase,Router,2,446.83,893.66
+2025-03-18,Pearson PLC,Headphones,15,447.76,6716.40
+2026-10-12,Novak and Sons,Power Supply,69,493.09,34023.21
+2025-05-10,Tucker-Lewis,Mouse,99,421.06,41684.94
+2025-11-08,Martin Inc,Printer,15,193.34,2900.10
+2025-10-31,House-Glover,Office Chair,21,298.35,6265.35
+2025-08-10,Horton-Cross,Laptop,93,472.64,43955.52
+2026-09-01,"Stanley, Tucker and Lee",Mouse,65,118.08,7675.20
+2025-06-19,Riley PLC,Network Switch,14,410.79,5751.06
+2025-02-17,"Edwards, Williams and Woods",Mouse,82,333.70,27363.40
+2026-10-25,"Moore, Yu and Miller",External Hard Drive,26,101.16,2630.16
+2025-05-25,Larson Ltd,Printer,98,106.87,10473.26
+2025-07-02,Wilson-Zamora,Network Switch,100,348.57,34857.00
+2025-07-11,"Wheeler, Harvey and Barnes",Power Supply,1,393.52,393.52
+2026-03-30,"Mills, Donovan and Harris",Printer,63,13.76,866.88
+2026-07-11,Allen-Foster,Desktop Computer,47,202.53,9518.91
+2026-06-06,"Evans, Stewart and Walton",Keyboard,8,158.85,1270.80
+2025-02-26,Ellis PLC,Power Supply,73,52.61,3840.53
+2025-03-19,Medina PLC,Desktop Computer,94,319.49,30032.06
+2025-07-25,Mahoney Inc,Router,9,499.46,4495.14
+2025-07-09,Mitchell-Kim,Network Switch,99,83.41,8257.59
+2026-02-26,"Turner, Riggs and Roman",Monitor,85,312.48,26560.80
+2026-02-15,Contreras PLC,Network Switch,22,174.70,3843.40
+2025-08-21,"Garcia, Humphrey and Baker",Network Switch,78,278.30,21707.40
+2025-03-25,"Tran, Nelson and Jacobs",Keyboard,70,495.97,34717.90
+2026-07-12,Harris-Walters,Headphones,89,132.82,11820.98
+2025-07-25,"Freeman, Whitehead and Mathis",Headphones,40,262.48,10499.20
+2025-03-13,"Henderson, Hill and Smith",USB Cable,84,245.72,20640.48
+2026-08-22,Walsh LLC,Desk,67,296.88,19890.96
+2025-05-06,"Ramos, Thornton and Hoffman",Desktop Computer,32,148.25,4744.00
+2025-03-28,Landry Ltd,Desktop Computer,44,14.78,650.32
+2025-04-26,"Johnson, Wood and Tran",External Hard Drive,71,151.80,10777.80
+2025-11-30,Williams LLC,External Hard Drive,29,5.71,165.59
+2026-09-11,Nolan and Sons,Desktop Computer,91,414.59,37727.69
+2026-06-14,Estrada LLC,Laptop,30,45.17,1355.10
+2026-08-29,"Henson, Russell and Oliver",Power Supply,5,217.54,1087.70
+2025-05-01,Hancock and Sons,Desktop Computer,66,156.97,10360.02
+2025-11-17,White LLC,Mouse,86,319.12,27444.32
+2026-08-31,Pham-Shields,Keyboard,70,87.71,6139.70
+2026-09-22,Adams Ltd,Headphones,74,378.62,28017.88
+2025-03-25,Brennan-Garrison,Desk,32,310.96,9950.72
+2025-06-22,Velasquez Group,Webcam,53,125.78,6666.34
+2025-09-29,Hoover-Savage,Desktop Computer,13,432.87,5627.31
+2025-06-23,Keller Group,Office Chair,46,278.59,12815.14
+2025-09-12,Lin-Rasmussen,Office Chair,60,478.80,28728.00
+2025-08-05,May-Ross,Laptop,87,429.24,37343.88
+2026-10-18,"Rivera, Johnson and Wiley",USB Cable,13,40.72,529.36
+2025-07-22,Carpenter LLC,Office Chair,94,223.36,20995.84
+2025-01-30,Carlson LLC,Webcam,14,163.95,2295.30
+2026-07-20,Graham-Joyce,Keyboard,25,352.46,8811.50
+2025-03-31,Lam-Lee,Desk,18,277.48,4994.64
+2025-02-04,"Graham, Meyer and Drake",Monitor,36,304.18,10950.48
+2026-06-18,"Bentley, Mclaughlin and Gonzalez",Keyboard,10,291.41,2914.10
+2025-12-01,Rush LLC,Webcam,71,65.16,4626.36
+2026-04-30,Alvarado-Martinez,Laptop,84,355.27,29842.68
+2025-08-22,"Parker, Ortiz and Powell",Router,2,62.12,124.24
+2025-08-18,"Martinez, Fisher and Bentley",Power Supply,97,155.91,15123.27
+2026-06-11,"Orr, Gilbert and Turner",Monitor,53,319.26,16920.78
+2026-03-02,Torres and Sons,Desk,28,263.82,7386.96
+2025-11-30,"Lawson, Morris and Ramos",Power Supply,8,108.89,871.12
+2026-06-09,Dixon Ltd,Office Chair,1,256.86,256.86
+2025-05-12,"Miller, Robertson and Schultz",Mouse,59,187.94,11088.46
+2025-09-18,Cardenas and Sons,Office Chair,90,479.74,43176.60
+2026-06-07,Walker-Gonzalez,Webcam,72,434.76,31302.72
+2025-01-19,Sanchez Group,Headphones,63,102.44,6453.72
+2026-04-20,Gibson Ltd,Keyboard,38,143.67,5459.46
+2026-03-24,Higgins Group,Laptop,75,483.17,36237.75
+2026-01-19,Sanchez-Douglas,Network Switch,8,491.19,3929.52
+2025-01-05,Osborne and Sons,Printer,8,33.86,270.88
+2025-05-17,"Holmes, Williams and Wright",External Hard Drive,62,330.54,20493.48
+2026-10-21,Bryant Group,Power Supply,68,104.17,7083.56
+2026-06-03,"Travis, Larson and Dodson",Laptop,66,53.50,3531.00
+2025-12-10,"Briggs, Mcclain and Simmons",Router,24,45.90,1101.60
+2026-03-02,Merritt-Manning,External Hard Drive,9,443.50,3991.50
+2026-01-04,Green-Wright,Router,31,265.61,8233.91
+2026-05-11,Cannon-Boyd,Desktop Computer,73,162.35,11851.55
+2026-05-02,Hill Inc,External Hard Drive,77,27.04,2082.08
+2026-07-09,Young-Rogers,External Hard Drive,11,275.74,3033.14
+2026-02-24,Taylor and Sons,USB Cable,75,371.42,27856.50
+2025-10-25,"Hernandez, Lewis and Perry",Network Switch,41,171.89,7047.49
+2025-09-15,"Owens, Brown and Wall",Keyboard,86,470.36,40450.96
+2025-10-30,"Shah, Smith and Gilmore",Printer,31,175.07,5427.17
+2026-03-24,Woods-Bender,Office Chair,17,441.19,7500.23
+2025-08-20,Castaneda-Ashley,USB Cable,39,300.64,11724.96
+2025-11-22,"Adkins, Payne and Morrison",Printer,97,48.54,4708.38
+2025-06-21,Robinson-Graham,Laptop,59,408.08,24076.72
+2025-01-23,Rogers-Shelton,External Hard Drive,13,49.01,637.13
+2025-11-11,"Martin, Mcdonald and Anderson",Network Switch,28,332.53,9310.84
+2026-04-29,"Johnson, Long and Elliott",Mouse,17,229.72,3905.24
+2025-01-22,Day and Sons,Power Supply,9,161.09,1449.81
+2025-12-25,Williams Group,Printer,37,104.38,3862.06
+2025-09-12,Gibson LLC,Desk,70,462.07,32344.90
+2026-08-15,Ramirez-Bean,Mouse,79,429.58,33936.82
+2025-11-24,Conley-Ruiz,Network Switch,2,438.69,877.38
+2026-08-05,"Williams, Crane and Walker",Router,71,197.20,14001.20
+2025-02-23,"Williams, Johnson and Wright",Power Supply,85,68.88,5854.80
+2026-10-14,Howell and Sons,Power Supply,18,174.32,3137.76
+2025-04-09,Caldwell-Elliott,Desktop Computer,14,487.55,6825.70
+2025-06-19,Lyons-Wang,Network Switch,20,179.48,3589.60
+2025-05-11,"Lawson, Adkins and Wilson",Mouse,78,139.03,10844.34
+2026-09-29,Oconnell Inc,Headphones,44,134.42,5914.48
+2026-03-26,Hickman PLC,USB Cable,82,174.00,14268.00
+2026-06-11,Sanders-Espinoza,Network Switch,63,165.57,10430.91
+2025-03-01,"Vaughn, Burton and Garcia",Power Supply,7,61.48,430.36
+2026-08-24,Jefferson-Burke,USB Cable,55,182.32,10027.60
+2025-04-05,"Patton, Reed and Patterson",Laptop,1,219.59,219.59
+2025-10-15,Hunter LLC,Webcam,17,418.53,7115.01
+2025-01-10,Short-Garcia,Mouse,21,486.77,10222.17
+2025-10-09,"Snow, Stevens and Hernandez",Desk,71,463.46,32905.66
+2025-05-17,"Boyd, Santos and Gilbert",Office Chair,72,7.33,527.76
+2026-02-23,Marshall-Petersen,Desktop Computer,10,453.86,4538.60
+2026-04-06,Morris-Sanchez,Power Supply,20,358.55,7171.00
+2025-03-09,Keith-Sanchez,Laptop,48,382.75,18372.00
+2025-12-27,"Bishop, Gray and Johnson",Network Switch,19,282.66,5370.54
+2026-10-23,White-Lewis,Monitor,6,203.02,1218.12
+2026-09-12,Peterson-Beard,Printer,6,235.49,1412.94
+2026-06-29,Peters-Black,Keyboard,88,164.53,14478.64
+2025-05-29,Allen Group,USB Cable,14,232.78,3258.92
+2026-01-15,"Chang, Vaughn and Brewer",Webcam,72,267.32,19247.04
+2026-01-17,Mcguire-Davis,External Hard Drive,96,102.28,9818.88
+2025-06-22,Holt-Torres,Power Supply,31,107.49,3332.19
+2026-03-28,Kennedy-Schmidt,Webcam,23,271.20,6237.60
+2025-11-27,"Pierce, Bell and Chavez",Laptop,23,483.71,11125.33
+2025-08-27,Hall-Griffith,Power Supply,43,270.82,11645.26
+2025-09-03,Newton Ltd,Webcam,86,482.72,41513.92
+2025-05-24,Robinson Group,Webcam,32,175.85,5627.20
+2025-08-03,"Lawrence, Wolf and Carlson",Monitor,90,71.84,6465.60
+2025-03-20,Phillips LLC,Office Chair,5,309.47,1547.35
+2025-05-20,Smith-Ferguson,Keyboard,26,302.66,7869.16
+2025-08-02,Mccann PLC,Printer,40,150.15,6006.00
+2025-08-15,"Raymond, Little and Mullins",Keyboard,4,433.55,1734.20
+2025-03-21,Andrews Group,Keyboard,52,216.12,11238.24
+2026-01-07,Peterson-Sheppard,Mouse,9,183.92,1655.28
+2025-07-16,Wilson-Jones,Printer,83,334.84,27791.72
+2026-01-17,Ray Ltd,Office Chair,87,352.41,30659.67
+2025-02-11,Hernandez PLC,Printer,4,76.59,306.36
+2025-08-24,Mcknight Inc,Power Supply,34,118.02,4012.68
+2026-03-10,Obrien-Gibbs,External Hard Drive,34,26.07,886.38
+2025-06-25,"James, Kerr and Evans",Desktop Computer,77,285.79,22005.83
+2026-04-03,Torres-Oliver,Printer,94,206.57,19417.58
+2026-04-19,"Garcia, Farmer and Garrett",Office Chair,78,336.16,26220.48
+2025-07-25,"Miller, Allen and Arnold",Desktop Computer,50,378.87,18943.50
+2025-05-02,Ortiz Ltd,Keyboard,33,30.08,992.64
+2026-04-07,Carter-Hall,Headphones,56,2.10,117.60
+2026-07-04,Warner-Gibson,Network Switch,69,451.13,31127.97
+2026-06-18,Bradshaw Ltd,Headphones,95,484.02,45981.90
+2026-04-04,"Lara, Gonzalez and Wilson",USB Cable,26,239.69,6231.94
+2025-06-24,"Hernandez, Baker and Thomas",Office Chair,9,436.31,3926.79
+2025-02-16,Sparks PLC,Power Supply,43,409.39,17603.77
+2026-08-05,"Morse, Gonzales and Harrison",Printer,85,82.67,7026.95
+2025-08-25,"Powell, Nelson and Fernandez",Headphones,39,333.34,13000.26
+2025-12-07,George Group,Mouse,86,268.64,23103.04
+2026-07-25,Munoz-Johnson,Printer,52,457.92,23811.84
+2025-06-27,"Huff, Johnston and Sampson",Mouse,71,84.41,5993.11
+2026-08-18,"Underwood, Johnston and Hines",Keyboard,54,436.76,23585.04
+2025-05-17,Stone-Ramos,Office Chair,87,491.29,42742.23
+2025-08-05,Shea Group,Power Supply,23,404.38,9300.74
+2026-05-09,Costa-Harrison,External Hard Drive,39,267.12,10417.68
+2025-11-14,Morris-Garcia,Network Switch,1,200.14,200.14
+2025-05-05,Jenkins-Simpson,Mouse,27,282.73,7633.71
+2026-05-30,Cervantes-Pierce,Webcam,75,398.58,29893.50
+2025-12-20,Edwards LLC,USB Cable,42,305.73,12840.66
+2025-04-01,Hancock-Bryan,Desk,57,443.77,25294.89
+2025-01-01,"Booth, Murray and Brown",Keyboard,66,311.10,20532.60
+2026-02-07,Dean-Jimenez,Webcam,95,112.20,10659.00
+2025-12-10,Harris PLC,USB Cable,11,186.98,2056.78
+2025-04-12,Kim-Wolfe,Network Switch,85,415.80,35343.00
+2025-04-05,Dudley PLC,External Hard Drive,43,62.20,2674.60
+2026-09-13,Mckinney LLC,Router,97,154.92,15027.24
+2026-03-04,Tran Inc,USB Cable,40,148.22,5928.80
+2025-06-24,Murray Inc,Webcam,26,97.56,2536.56
+2026-05-19,Jimenez Ltd,Laptop,6,161.46,968.76
+2025-08-15,"Thornton, Perry and Olson",Desk,79,48.72,3848.88
+2026-01-02,Bryant and Sons,Desk,54,413.72,22340.88
+2025-10-25,Weeks PLC,External Hard Drive,25,471.77,11794.25
+2026-08-03,Shields LLC,Headphones,50,324.99,16249.50
+2026-08-24,Morgan-French,Office Chair,32,97.71,3126.72
+2025-07-27,Campbell LLC,USB Cable,89,4.63,412.07
+2026-10-13,"Carpenter, Keller and Grimes",Power Supply,97,70.85,6872.45
+2025-12-13,"Washington, Cook and Hines",Webcam,55,144.41,7942.55
+2025-10-20,Cantu-Kane,Monitor,90,340.44,30639.60
+2026-06-26,Armstrong and Sons,Desk,7,366.30,2564.10
+2026-10-27,Williams-Garner,Keyboard,16,300.14,4802.24
+2026-07-02,Hughes-Alvarado,Monitor,60,438.50,26310.00
+2026-09-30,"Pollard, Simpson and Johnson",Network Switch,72,391.23,28168.56
+2026-01-26,"Rivera, Garcia and Kirk",Printer,97,291.04,28230.88
+2025-03-19,"Lozano, Smith and Thomas",External Hard Drive,93,331.81,30858.33
+2026-05-24,Jones LLC,Office Chair,71,293.23,20819.33
+2025-09-20,"Schwartz, Santos and Christian",Power Supply,21,488.36,10255.56
+2026-10-25,"Villarreal, James and Stewart",Router,61,295.95,18052.95
+2026-07-13,Brennan-Johnson,Mouse,97,163.03,15813.91
+2025-02-23,Welch LLC,Router,82,182.73,14983.86
+2025-06-26,"Davis, Good and Hodges",Webcam,100,342.63,34263.00
+2026-07-01,Wallace Ltd,Desk,81,157.79,12780.99
+2025-08-21,Williams Inc,Mouse,57,51.77,2950.89
+2025-08-16,Brooks-Thomas,Headphones,37,154.67,5722.79
+2026-02-17,Knight-Sparks,Mouse,43,210.52,9052.36
+2025-05-13,Miller Group,Power Supply,70,53.80,3766.00
+2026-04-27,"Allen, Durham and Thomas",Monitor,20,152.55,3051.00
+2025-12-25,"King, Scott and Smith",Office Chair,89,101.14,9001.46
+2026-09-17,Santana-Byrd,Headphones,28,43.09,1206.52
+2025-05-03,Alexander LLC,Office Chair,53,217.84,11545.52
+2026-04-02,Fowler-Coleman,Network Switch,60,273.48,16408.80
+2025-07-14,Bruce-Gonzalez,Laptop,27,276.34,7461.18
+2025-10-26,Rodriguez-James,Office Chair,99,383.78,37994.22
+2025-10-06,"Phillips, Lyons and Johnson",Headphones,3,378.28,1134.84
+2026-10-07,"Foster, Smith and Grimes",Office Chair,62,4.86,301.32
+2026-08-28,"Beltran, Lozano and Mcgee",Printer,39,494.79,19296.81
+2026-10-09,Parsons-Hall,Office Chair,54,353.72,19100.88
+2026-09-15,Robinson-Lee,Headphones,95,358.91,34096.45
+2025-07-14,"Campos, Saunders and Becker",Webcam,78,145.53,11351.34
+2025-04-17,"Davis, Burton and Williams",Desk,29,179.87,5216.23
+2026-09-05,Johnson-Diaz,Office Chair,63,20.02,1261.26
+2025-04-13,Browning LLC,Office Chair,44,439.35,19331.40
+2026-08-04,Thompson-Anderson,USB Cable,52,475.59,24730.68
+2026-02-23,Schmidt-Mcintyre,Monitor,60,84.64,5078.40
+2026-10-08,Scott Group,External Hard Drive,69,18.67,1288.23
+2026-09-19,Francis-Morgan,Power Supply,51,388.90,19833.90
+2025-03-31,Mccarty-Taylor,External Hard Drive,85,18.76,1594.60
+2025-06-25,"Ramsey, Whitney and Coffey",Desktop Computer,83,281.89,23396.87
+2026-09-17,"Diaz, Gibbs and Smith",Monitor,60,120.09,7205.40
+2026-02-21,Gibson Ltd,Laptop,34,249.44,8480.96
+2026-08-05,"Baker, James and Little",Printer,28,298.99,8371.72
+2025-10-16,Leonard Group,Printer,44,499.87,21994.28
+2025-01-20,"Henson, Hoffman and Herman",Power Supply,49,183.35,8984.15
+2025-06-21,"Brown, Colon and Blankenship",Webcam,54,166.32,8981.28
+2025-08-23,"Ortiz, Taylor and Shah",Router,11,309.22,3401.42
+2025-08-25,Wilson-Young,Laptop,96,354.51,34032.96
+2026-02-22,Price LLC,Laptop,45,147.94,6657.30
+2026-06-05,"Horton, Fernandez and Matthews",USB Cable,9,428.13,3853.17
+2026-07-19,Mcclure Ltd,Laptop,97,21.33,2069.01
+2025-03-18,Gilbert-Crosby,Keyboard,26,14.35,373.10
+2025-08-06,Vaughn and Sons,External Hard Drive,20,157.33,3146.60
+2025-12-11,Sampson-Foley,Monitor,61,439.73,26823.53
+2025-03-19,"Richardson, Winters and Newman",Desktop Computer,73,143.84,10500.32
+2025-02-17,Hill-Donaldson,Desk,90,168.93,15203.70
+2026-10-21,Davis-Lewis,Webcam,48,110.96,5326.08
+2026-05-12,"Maddox, Williams and Cook",External Hard Drive,78,491.16,38310.48
+2025-04-08,"Harris, Gallegos and Spencer",Headphones,15,108.32,1624.80
+2026-04-01,Li and Sons,Mouse,14,380.24,5323.36
+2025-09-13,Kramer PLC,Laptop,40,378.35,15134.00
+2025-01-03,Garrison-Thomas,USB Cable,49,260.95,12786.55
+2025-04-11,"King, Thompson and Guerrero",Headphones,26,50.80,1320.80
+2025-01-21,Smith and Sons,External Hard Drive,89,412.06,36673.34
+2026-04-03,Smith-Baker,Keyboard,14,457.91,6410.74
+2025-04-09,"Fisher, Wilson and Brown",Webcam,39,449.43,17527.77
+2025-12-15,Palmer-Rodriguez,External Hard Drive,16,371.88,5950.08
+2026-01-27,Dougherty Inc,Webcam,6,228.54,1371.24
+2026-07-19,"Boyd, Ellis and Maynard",Network Switch,55,434.53,23899.15
+2025-02-17,Boone-Simmons,Printer,9,332.58,2993.22
+2025-03-25,Joseph-Wallace,USB Cable,44,9.29,408.76
+2025-03-04,Franklin-Jones,Router,54,322.25,17401.50
+2025-08-02,"Schultz, Kelley and Nguyen",Desktop Computer,56,238.36,13348.16
+2026-04-10,"Phillips, Wagner and Jordan",USB Cable,59,464.54,27407.86
+2026-09-09,"Wilson, Pena and Rich",Monitor,56,116.43,6520.08
+2026-03-05,"Glenn, Jordan and Beasley",Headphones,67,427.28,28627.76
+2025-11-18,Wilcox-Ross,Mouse,79,353.69,27941.51
+2026-07-21,Edwards LLC,Webcam,62,305.65,18950.30
+2026-06-01,Brooks-Hernandez,Office Chair,94,389.28,36592.32
+2026-01-04,Davis Inc,Mouse,42,161.88,6798.96
+2025-03-14,Davis-Rodgers,Router,12,183.79,2205.48
+2026-09-23,Hawkins PLC,Power Supply,58,160.81,9326.98
+2026-03-13,"Rivera, Martinez and Gomez",Webcam,60,374.45,22467.00
+2026-06-01,Parrish-Griffith,External Hard Drive,86,249.37,21445.82
+2025-08-12,"Edwards, Garcia and Romero",Printer,4,324.94,1299.76
+2025-05-01,"Olson, Boone and Bell",Router,42,120.17,5047.14
+2026-03-09,Wilson-Ramirez,Desk,28,233.53,6538.84
+2025-06-25,Bruce-Villegas,Webcam,34,224.04,7617.36
+2026-09-28,"Austin, Day and Johnson",Mouse,77,460.52,35460.04
+2026-05-26,"Adams, White and Park",Power Supply,36,365.24,13148.64
+2025-08-28,Bell-White,Laptop,67,126.21,8456.07
+2025-04-22,"Sandoval, Jones and Figueroa",Desktop Computer,31,472.90,14659.90
+2025-01-24,Reese and Sons,Office Chair,63,364.84,22984.92
+2025-10-20,Chavez-Moore,Webcam,31,453.59,14061.29
+2025-08-31,"Nguyen, Pugh and Carlson",Desk,83,467.51,38803.33
+2025-02-10,Moore PLC,Desk,58,12.30,713.40
+2025-02-08,"Miller, Ramos and Coleman",Desktop Computer,38,146.22,5556.36
+2026-04-17,Perry-Lewis,Office Chair,89,160.45,14280.05
+2026-02-02,Reed Inc,Mouse,85,382.12,32480.20
+2025-08-09,"Gregory, Tucker and Estrada",Printer,61,363.72,22186.92
+2025-02-05,Foster PLC,Network Switch,45,279.85,12593.25
+2025-02-12,Harris and Sons,Headphones,71,217.78,15462.38
+2026-08-20,Duran LLC,Printer,90,298.36,26852.40
+2025-09-12,Smith Ltd,Mouse,40,165.75,6630.00
+2025-12-01,Anderson PLC,Keyboard,16,473.70,7579.20
+2026-07-01,Mason Ltd,Keyboard,41,79.35,3253.35
+2026-09-19,Jones-Hensley,Headphones,69,453.30,31277.70
+2025-02-02,Smith-Morse,Monitor,25,142.80,3570.00
+2025-09-01,"Patterson, Sullivan and Bowman",Headphones,62,182.20,11296.40
+2025-08-13,Sullivan LLC,Headphones,76,499.20,37939.20
+2025-05-14,"Stevens, Norris and Cox",Network Switch,77,186.46,14357.42
+2025-12-06,Sanchez PLC,Desktop Computer,25,195.14,4878.50
+2025-11-08,"Miller, Harrell and Reese",Keyboard,47,118.59,5573.73
+2025-06-22,Maxwell-Jones,Mouse,2,465.00,930.00
+2026-05-07,Schmidt and Sons,Network Switch,17,180.77,3073.09
+2026-08-26,Bell-Mullen,Laptop,7,363.64,2545.48
+2026-05-17,Young and Sons,Mouse,90,83.75,7537.50
+2025-07-18,Thompson and Sons,USB Cable,97,322.70,31301.90
+2026-08-14,"Jones, Bean and Burton",Desktop Computer,2,377.21,754.42
+2025-12-27,"Wolf, Cole and Glass",Mouse,61,314.73,19198.53
+2026-03-15,"Reid, Weber and Lin",Desk,44,121.82,5360.08
+2026-05-03,Hernandez-Jones,Laptop,33,314.08,10364.64
+2025-12-10,"Turner, Hill and Brown",Desktop Computer,9,263.60,2372.40
+2026-01-30,Collins Group,Desk,10,379.15,3791.50
+2025-01-30,Wood LLC,USB Cable,88,36.13,3179.44
+2025-03-01,"Lin, Wyatt and Gilbert",Monitor,20,369.86,7397.20
+2026-01-29,Ford-Spencer,Mouse,11,163.65,1800.15
+2026-09-08,"Huang, Cole and Pacheco",Desktop Computer,72,273.74,19709.28
+2026-05-22,Morris Group,External Hard Drive,77,406.28,31283.56
+2026-01-25,Rosario Group,Keyboard,100,343.47,34347.00
+2025-03-22,Haas-Miller,Office Chair,58,291.14,16886.12
+2026-05-17,Williams Ltd,Mouse,76,282.03,21434.28
+2025-12-07,Warren-Bishop,Mouse,73,407.99,29783.27
+2025-10-10,Hardin-Hughes,Laptop,79,486.02,38395.58
+2026-08-25,Shelton-Williams,Desktop Computer,98,137.17,13442.66
+2026-05-06,"Cook, Rivera and Grant",USB Cable,28,174.43,4884.04
+2025-10-28,King-York,USB Cable,11,103.92,1143.12
+2026-04-14,Cook PLC,Keyboard,23,362.75,8343.25
+2026-05-31,Rangel LLC,Desktop Computer,21,2.75,57.75
+2026-05-25,"Bates, Anderson and Fletcher",Office Chair,58,452.78,26261.24
+2025-03-07,Hansen-Schneider,External Hard Drive,61,191.87,11704.07
+2025-09-13,Santiago Ltd,Laptop,30,189.81,5694.30
+2026-06-17,"Davis, Santiago and Romero",Headphones,37,461.70,17082.90
+2025-01-15,Parker-Bean,Router,59,47.64,2810.76
+2025-09-23,Lee-Cooke,USB Cable,30,174.37,5231.10
+2025-05-01,Phillips Inc,Webcam,81,387.52,31389.12
+2026-01-30,"Conley, Stephenson and Johnson",USB Cable,26,279.61,7269.86
+2025-09-19,"Anderson, Bennett and Martin",Desktop Computer,70,148.33,10383.10
+2026-10-08,"Wise, Lamb and Martin",USB Cable,20,175.08,3501.60
+2025-12-06,Jenkins Ltd,Router,19,47.79,908.01
+2026-07-13,Montes PLC,Laptop,22,202.59,4456.98
+2025-08-10,"Bowers, Young and Allen",External Hard Drive,96,374.03,35906.88
+2026-09-21,Mckee-Lee,Power Supply,37,288.80,10685.60
+2026-06-11,"Joyce, Murray and Campbell",Desktop Computer,60,452.33,27139.80
+2025-10-24,"Rose, Burch and Montoya",Mouse,90,264.78,23830.20
+2026-09-15,"Taylor, Wright and Davidson",Mouse,65,354.88,23067.20
+2025-10-16,"Villa, Dawson and Black",Desk,57,53.71,3061.47
+2025-04-07,Miller-Martin,External Hard Drive,6,284.13,1704.78
+2025-12-15,"Hernandez, Kim and Potts",Headphones,42,396.64,16658.88
+2025-06-22,Wilkerson-Arias,Mouse,4,60.85,243.40
+2025-11-19,Sanders LLC,Keyboard,87,377.96,32882.52
+2025-07-03,Vang-Brooks,External Hard Drive,3,441.58,1324.74
+2025-01-22,Galvan-Combs,Router,35,378.64,13252.40
+2026-05-20,Moody-Taylor,Laptop,98,496.62,48668.76
+2025-08-11,Horton-Taylor,Monitor,61,341.10,20807.10
+2026-07-03,West-Smith,USB Cable,57,183.29,10447.53
+2025-03-03,Scott and Sons,Monitor,75,286.66,21499.50
+2026-03-03,"Lynch, Henderson and Parsons",USB Cable,63,60.79,3829.77
+2025-07-04,Martinez-Allen,Desk,45,268.61,12087.45
+2026-05-12,"Bryant, Rodriguez and Stein",Printer,42,440.17,18487.14
+2026-04-09,"Smith, Robertson and Allen",Desktop Computer,21,217.14,4559.94
+2025-04-22,Patterson-Mendez,Office Chair,89,325.71,28988.19
+2025-07-06,"Butler, Beck and Miller",Mouse,85,263.44,22392.40
+2025-10-08,Ashley PLC,Router,98,361.51,35427.98
+2026-01-30,"Spencer, Myers and Harrison",Laptop,59,58.71,3463.89
+2026-05-09,Zavala-King,Printer,33,212.86,7024.38
+2025-01-13,Kramer-Cooper,Desktop Computer,99,265.88,26322.12
+2026-07-24,"Fuller, Ingram and Moss",Router,66,1.75,115.50
+2025-09-16,Williams PLC,USB Cable,70,303.76,21263.20
+2025-09-20,"Thompson, Maxwell and Marshall",Office Chair,7,123.93,867.51
+2026-06-25,Welch-Cain,Network Switch,47,409.04,19224.88
+2025-02-19,"Parsons, Ellis and Carter",Webcam,64,410.86,26295.04
+2025-02-04,Blackwell LLC,Desk,98,34.82,3412.36
+2025-08-29,"Sanders, Ochoa and Kennedy",Keyboard,35,360.93,12632.55
+2025-01-29,"Lee, Kelly and Norman",Monitor,37,288.12,10660.44
+2026-05-25,Nelson-Lloyd,Power Supply,90,318.66,28679.40
+2025-12-06,Paul-Kline,Desktop Computer,4,413.89,1655.56
+2025-10-28,Beltran-Crawford,External Hard Drive,31,466.16,14450.96
+2026-01-22,Glass-Stone,Monitor,40,361.99,14479.60
+2026-09-15,Acosta Inc,Laptop,71,268.38,19054.98
+2025-12-01,"Carney, White and Carter",Desktop Computer,29,75.35,2185.15
+2025-03-21,Murphy LLC,Desk,16,425.48,6807.68
+2025-08-27,Morrison-Simmons,Router,20,327.61,6552.20
+2026-06-20,Bell-Williams,Power Supply,92,192.27,17688.84
+2025-10-01,"Bolton, Hill and Whitney",Network Switch,91,180.19,16397.29
+2025-02-14,Lambert Group,Office Chair,62,310.47,19249.14
+2025-10-10,"Owen, Shelton and Cisneros",Keyboard,59,362.27,21373.93
+2025-04-21,"Gregory, Kim and Martinez",Monitor,50,125.91,6295.50
+2025-07-03,"Diaz, Reyes and Bradley",Power Supply,77,334.08,25724.16
+2026-04-15,Shelton LLC,Headphones,18,46.75,841.50
+2025-10-16,Hines-Berry,Mouse,99,272.93,27020.07
+2026-02-16,Sanders-Banks,Printer,65,176.09,11445.85
+2025-07-13,Johnson and Sons,Router,1,186.36,186.36
+2026-01-23,"Hughes, Hoffman and Green",Headphones,39,385.65,15040.35
+2025-07-22,"Griffin, Davies and Mitchell",External Hard Drive,85,321.89,27360.65
+2026-01-17,Martinez Inc,Router,20,293.64,5872.80
+2025-12-18,Roach Group,Network Switch,62,227.18,14085.16
+2025-03-10,"Ponce, Downs and Contreras",Printer,71,357.14,25356.94
+2026-07-06,Pierce LLC,Office Chair,59,211.88,12500.92
+2025-08-21,Joseph Ltd,Router,25,458.11,11452.75
+2026-05-11,Leon PLC,Keyboard,74,251.98,18646.52
+2025-06-24,Galloway and Sons,Keyboard,100,270.20,27020.00
+2025-07-03,Johnson-Spencer,Laptop,41,489.04,20050.64
+2025-10-14,Lara-Arnold,Desk,91,250.84,22826.44
+2026-04-21,Jones Group,Office Chair,85,428.30,36405.50
+2026-07-11,"Mendoza, Jenkins and Ortiz",Monitor,64,25.26,1616.64
+2026-03-23,Martinez LLC,Monitor,65,387.78,25205.70
+2026-05-14,Cole Ltd,Printer,13,289.55,3764.15
+2026-02-06,Anderson-Calderon,Desktop Computer,68,300.45,20430.60
+2026-03-05,"Matthews, Saunders and Anderson",Laptop,93,95.47,8878.71
+2026-01-26,Guerra PLC,Office Chair,84,102.16,8581.44
+2025-04-29,Martin-Morris,Desktop Computer,61,174.68,10655.48
+2026-07-05,Reed PLC,Printer,80,454.97,36397.60
+2025-08-09,King Ltd,Office Chair,84,53.63,4504.92
+2026-03-04,Martinez-Turner,Router,43,442.94,19046.42
+2026-02-19,Shaw and Sons,Router,69,250.04,17252.76
+2026-04-05,"Moore, Hopkins and Le",Printer,81,472.01,38232.81
+2026-04-16,Kirby-Elliott,Power Supply,98,320.78,31436.44
+2026-10-03,Miller Ltd,Router,70,24.52,1716.40
+2026-08-22,"Baker, Clark and Armstrong",External Hard Drive,9,154.85,1393.65
+2026-04-26,"Johnson, Small and Gardner",USB Cable,88,189.33,16661.04
+2026-05-14,Webb-Ballard,Keyboard,96,60.23,5782.08
+2026-06-17,Evans-Jones,Office Chair,13,499.31,6491.03
+2025-02-16,Gonzales Group,USB Cable,91,66.86,6084.26
+2025-12-27,Peterson and Sons,Desk,22,455.82,10028.04
+2025-08-31,"Flores, Travis and Reed",Mouse,4,31.14,124.56
+2025-11-06,Hodges PLC,Printer,8,193.26,1546.08
+2026-03-13,Flores Group,Printer,48,283.25,13596.00
+2025-04-06,Cole-Thomas,Monitor,32,349.10,11171.20
+2025-02-09,Dougherty-Lin,Office Chair,73,447.82,32690.86
+2025-11-21,Estes and Sons,Webcam,24,112.40,2697.60
+2026-09-24,Peck-Griffith,Monitor,11,400.43,4404.73
+2025-05-28,Jimenez PLC,Router,49,407.13,19949.37
+2025-12-29,Koch-Jimenez,USB Cable,31,327.15,10141.65
+2025-03-11,Wagner-Levy,Power Supply,75,94.79,7109.25
+2025-06-17,"Gomez, Williams and Simpson",Keyboard,60,419.05,25143.00
+2026-10-17,"Chambers, Mitchell and Smith",Mouse,59,168.33,9931.47
+2025-03-25,Anderson-Baker,USB Cable,2,305.90,611.80
+2025-10-12,Diaz-Morales,Power Supply,37,445.07,16467.59
+2026-03-19,"Lee, Tran and Jones",Network Switch,21,49.40,1037.40
+2026-01-27,Duran-Ramirez,Desk,45,386.07,17373.15
+2026-04-30,"Carr, Anderson and Davis",Mouse,82,279.07,22883.74
+2025-10-17,Grant-Diaz,Headphones,33,300.39,9912.87
+2025-04-23,Morrison Group,Router,39,131.55,5130.45
+2026-01-24,Williams and Sons,Office Chair,62,70.89,4395.18
+2026-07-09,Brock-Stone,Keyboard,49,375.81,18414.69
+2025-04-26,"Barry, Taylor and Velazquez",Printer,74,194.90,14422.60
+2025-09-05,Long PLC,Headphones,38,15.37,584.06
+2026-07-29,Wheeler-Romero,Router,85,260.39,22133.15
+2026-01-31,"Burns, Hart and Wells",Mouse,2,371.88,743.76
+2025-01-13,Rivera-Rodriguez,Router,88,489.02,43033.76
+2025-11-20,"Parker, Roach and Wiggins",Laptop,78,489.35,38169.30
+2026-05-04,Carlson LLC,Desk,37,151.81,5616.97
+2026-05-25,"Lane, Griffith and Silva",External Hard Drive,46,144.52,6647.92
+2025-05-13,"Fuller, Harvey and Randall",USB Cable,25,407.90,10197.50
+2025-04-25,"Allen, Armstrong and Graves",Mouse,87,496.17,43166.79
+2025-05-29,Alexander Group,Headphones,99,433.00,42867.00
+2025-04-28,Vaughn-Jenkins,USB Cable,18,412.72,7428.96
+2026-08-25,"Knapp, Salas and Fitzgerald",Desktop Computer,81,424.58,34390.98
+2025-02-18,"Taylor, Clark and Nguyen",Laptop,40,289.89,11595.60
+2026-05-30,Fox-Edwards,Laptop,75,240.11,18008.25
+2025-05-15,Barr-Peterson,Headphones,17,60.06,1021.02
+2025-10-03,"Ingram, Le and Schneider",Power Supply,38,215.11,8174.18
+2026-06-23,Bishop-Lee,Headphones,54,116.10,6269.40
+2025-07-11,Grant-Walker,Keyboard,17,354.50,6026.50
+2025-08-20,Bush-Vaughn,Power Supply,47,348.89,16397.83
+2026-01-15,Castillo-Castro,Network Switch,35,108.83,3809.05
+2026-09-10,"Hill, Martinez and Rhodes",Mouse,62,194.42,12054.04
+2025-10-22,Cardenas-Blevins,Headphones,44,76.47,3364.68
+2026-09-17,Roberts LLC,Desk,10,93.24,932.40
+2026-07-09,Reed Group,Webcam,29,444.23,12882.67
+2026-05-25,Burgess-Lewis,Headphones,87,261.44,22745.28
+2026-10-06,"Nelson, Hoffman and Nelson",Router,72,240.71,17331.12
+2025-03-26,"Yang, Allen and Williams",Desktop Computer,51,10.12,516.12
+2026-02-17,Little Inc,Mouse,69,81.99,5657.31
+2025-03-19,Rivera-Kennedy,Desk,48,441.94,21213.12
+2026-06-14,Smith PLC,Headphones,87,172.81,15034.47
+2025-05-03,Delgado-Gilmore,External Hard Drive,49,419.47,20554.03
+2026-01-05,Santos-Avila,Printer,14,443.26,6205.64
+2025-08-12,Mitchell-Brown,Keyboard,61,17.40,1061.40
+2026-08-21,Pearson and Sons,External Hard Drive,72,215.96,15549.12
+2026-02-20,"Sharp, Zuniga and Gentry",Power Supply,79,146.07,11539.53
+2025-05-16,Khan-Thompson,USB Cable,9,417.41,3756.69
+2025-01-29,French-Lopez,Router,60,460.45,27627.00
+2026-08-05,Mcdowell-Smith,Mouse,84,268.58,22560.72
+2026-03-18,"Rodriguez, Bird and Mitchell",Desktop Computer,18,30.71,552.78
+2026-05-14,"Warren, Small and Anderson",Laptop,39,323.84,12629.76
+2026-01-27,Nelson-Lamb,Desktop Computer,13,154.87,2013.31
+2025-09-14,Simon Ltd,Power Supply,69,89.90,6203.10
+2025-07-19,"Lopez, Doyle and Gibbs",Office Chair,59,244.14,14404.26
+2026-03-18,"Todd, Thompson and Chase",USB Cable,96,457.44,43914.24
+2025-11-11,Robertson-Miller,Network Switch,54,385.91,20839.14
+2026-06-04,Lopez and Sons,Headphones,94,102.26,9612.44
+2026-01-06,Boyle-Smith,Power Supply,54,430.20,23230.80
+2025-10-25,Griffin LLC,Desktop Computer,63,404.47,25481.61
+2025-09-14,Aguilar-Berry,Office Chair,36,22.44,807.84
+2025-07-23,"Ward, Young and Contreras",Headphones,48,143.38,6882.24
+2025-12-28,Moore-Parks,Desk,57,155.73,8876.61
+2026-07-01,Vaughn-Fowler,Router,47,66.11,3107.17
+2025-08-18,Mendez-Robinson,USB Cable,48,357.82,17175.36
+2025-04-14,Hernandez-Adkins,Power Supply,83,236.06,19592.98
+2026-04-16,Perry-Dunn,Laptop,51,181.80,9271.80
+2026-01-01,"Pham, Petersen and Gill",Keyboard,16,299.00,4784.00
+2026-06-13,"Marks, Miller and Griffin",Desktop Computer,85,140.00,11900.00
+2026-07-01,Miller-Elliott,USB Cable,82,392.34,32171.88
+2025-02-17,"Leach, Harris and Herrera",Laptop,7,219.56,1536.92
+2025-05-08,Bond-Ramos,Keyboard,17,371.00,6307.00
+2026-06-13,Love Group,Keyboard,9,364.20,3277.80
+2025-03-12,"Griffin, Brown and Anderson",Keyboard,76,142.52,10831.52
+2025-11-19,Elliott-Hansen,Router,30,216.32,6489.60
+2026-06-07,Cummings-Foster,Webcam,19,391.58,7440.02
+2026-09-27,Reese PLC,Laptop,36,95.82,3449.52
+2025-02-26,Henderson Ltd,Monitor,70,165.26,11568.20
+2025-02-19,"Mcknight, Michael and Jones",Webcam,23,73.04,1679.92
+2026-01-02,Mitchell and Sons,USB Cable,4,87.37,349.48
+2026-08-21,Cannon Ltd,Laptop,46,156.93,7218.78
+2026-05-17,Brooks-Vance,External Hard Drive,42,11.34,476.28
+2025-12-15,Bennett-Vega,Monitor,34,35.34,1201.56
+2026-05-30,"Anderson, Dalton and Wilson",Monitor,95,276.88,26303.60
+2026-02-22,Rice-Luna,Network Switch,15,489.67,7345.05
+2025-06-22,Avila LLC,Desktop Computer,61,294.78,17981.58
+2025-12-26,"Ball, Coleman and Gray",Webcam,47,337.35,15855.45
+2025-06-28,Murray and Sons,External Hard Drive,14,297.22,4161.08
+2025-08-03,Pineda Ltd,Network Switch,29,404.11,11719.19
+2026-08-18,Johnson Ltd,Laptop,94,432.81,40684.14
+2025-11-22,"Miranda, Stephenson and Smith",Network Switch,39,301.18,11746.02
+2025-06-10,Garcia Inc,USB Cable,4,40.86,163.44
+2025-12-13,"Powers, Brennan and Sanchez",Desk,52,280.36,14578.72
+2025-02-04,Gonzales-Fernandez,USB Cable,14,322.30,4512.20
+2026-08-09,Taylor LLC,Headphones,57,49.16,2802.12
+2025-07-01,"Johnston, Ray and Barton",Power Supply,11,212.09,2332.99
+2026-09-28,Young-Walter,External Hard Drive,19,44.04,836.76
+2026-05-28,"Walker, Turner and Brown",Monitor,36,410.15,14765.40
+2026-04-05,"Buck, Garrett and Simmons",USB Cable,75,360.37,27027.75
+2026-01-20,Compton Ltd,Headphones,42,250.62,10526.04
+2026-06-06,Floyd-Flores,External Hard Drive,68,194.26,13209.68
+2025-11-20,Hernandez-Bennett,Desk,65,397.77,25855.05
+2026-08-09,"Wells, Atkinson and Turner",Office Chair,13,460.91,5991.83
+2026-07-04,Shaffer Inc,Desktop Computer,84,427.58,35916.72
+2026-03-13,Faulkner-Grant,Power Supply,99,362.32,35869.68
+2025-04-15,Sanchez-Harris,Headphones,28,282.85,7919.80
+2026-05-18,Nielsen LLC,Desk,30,272.19,8165.70
+2025-03-13,"Hardy, Lee and Adams",Printer,59,262.31,15476.29
+2026-06-08,"Morrison, Russo and Lopez",Office Chair,94,63.31,5951.14
+2026-08-15,"Ramsey, Hansen and Mendoza",Printer,55,205.81,11319.55
+2025-09-16,Krueger-Smith,USB Cable,33,246.30,8127.90
+2025-05-28,"Wilson, Key and Mendoza",Monitor,88,311.81,27439.28
+2025-07-08,"Munoz, Harris and Herman",Desktop Computer,12,56.94,683.28
+2026-03-05,Rowe-James,Desktop Computer,56,64.28,3599.68
+2026-02-19,"Howard, Green and Hunt",Headphones,95,245.21,23294.95
+2026-01-22,Garcia-Zavala,Webcam,17,365.62,6215.54
+2025-12-31,Rocha-Wood,Laptop,76,369.04,28047.04
+2025-11-18,Hart and Sons,Network Switch,43,440.09,18923.87
+2026-07-30,Smith PLC,Desktop Computer,53,232.73,12334.69
+2026-03-30,"Cortez, Phillips and Gonzalez",Router,86,492.70,42372.20
+2025-06-28,Hudson-Sanchez,Office Chair,93,34.71,3228.03
+2026-03-04,"Harding, Morgan and Hines",Mouse,77,205.76,15843.52
+2026-01-15,"May, Henry and Jackson",Printer,14,379.74,5316.36
+2026-09-10,Jackson-Cortez,Network Switch,28,102.40,2867.20
+2026-01-15,Stark PLC,USB Cable,62,147.96,9173.52
+2026-05-14,Warren Inc,Router,14,230.45,3226.30
+2026-09-28,"Williams, Smith and Taylor",Router,72,241.88,17415.36
+2026-05-05,Jones and Sons,Desktop Computer,98,183.56,17988.88
+2025-01-08,Wagner LLC,External Hard Drive,29,282.22,8184.38
+2025-02-16,"Little, Peck and Durham",Router,72,408.45,29408.40
+2026-05-28,Smith-Patel,External Hard Drive,87,422.19,36730.53
+2025-11-16,Smith Ltd,Network Switch,4,400.11,1600.44
+2025-08-02,"Madden, Smith and Li",Power Supply,85,455.47,38714.95
+2026-06-08,Drake-Browning,Mouse,4,119.23,476.92
+2025-03-25,Warren and Sons,Mouse,90,203.49,18314.10
+2025-05-30,"Fox, Ochoa and Adams",Power Supply,44,231.04,10165.76
+2025-11-05,Watson Group,Laptop,24,94.88,2277.12
+2025-12-23,"Sanchez, Terry and Evans",External Hard Drive,85,263.65,22410.25
+2026-10-06,Valdez Ltd,Desktop Computer,19,486.60,9245.40
+2026-08-13,Davis Group,USB Cable,4,61.13,244.52
+2025-10-20,"Alvarez, Walsh and Warner",Headphones,68,141.98,9654.64
+2025-03-06,Bruce-Newman,Office Chair,54,298.30,16108.20
+2025-09-15,"Madden, Dickson and Jacobson",Printer,21,243.51,5113.71
+2025-02-03,Lewis Ltd,Mouse,93,213.58,19862.94
+2026-03-17,Nelson-Glass,Webcam,73,391.74,28597.02
+2026-06-16,Lam-Elliott,Desktop Computer,7,102.96,720.72
+2025-01-26,Mcfarland LLC,Monitor,97,405.90,39372.30
+2025-01-13,Matthews Ltd,Laptop,87,54.46,4738.02
+2026-09-30,Hickman-Evans,Mouse,57,434.80,24783.60
+2026-03-15,Knight Group,Office Chair,63,398.85,25127.55
+2026-06-10,"Rivera, Campos and Taylor",Desk,54,180.02,9721.08
+2026-06-20,"Miller, Mcgee and Reed",Keyboard,97,336.77,32666.69
+2025-03-17,Hall-Jones,Desktop Computer,45,282.74,12723.30
+2026-04-16,"Friedman, Sanders and Ayala",Desktop Computer,37,445.47,16482.39
+2025-01-24,"Nelson, Riddle and Henry",USB Cable,76,319.91,24313.16
+2025-10-04,"Pugh, Reynolds and Frazier",Network Switch,86,203.12,17468.32
+2026-05-29,Miller-Montgomery,Laptop,29,260.03,7540.87
+2026-09-12,Marquez Inc,External Hard Drive,8,6.03,48.24
+2025-07-28,James Ltd,Keyboard,39,139.43,5437.77
+2025-04-30,"Price, Ward and Davis",Webcam,18,168.45,3032.10
+2025-08-28,Ward-Nelson,Mouse,42,79.63,3344.46
+2025-04-13,Lopez Group,Laptop,64,490.56,31395.84
+2026-03-09,"Hunt, Garcia and Davis",Office Chair,23,85.66,1970.18
+2026-03-07,Carlson LLC,Office Chair,69,462.15,31888.35
+2025-10-27,Carter Group,Keyboard,65,367.16,23865.40
+2026-08-29,Hardy PLC,Router,86,233.10,20046.60
+2025-07-08,"Meyer, Jennings and Jackson",Desktop Computer,51,487.30,24852.30
+2025-07-28,Adams-Thomas,Laptop,56,13.28,743.68
+2025-05-10,Hill-Evans,Desk,10,206.16,2061.60
+2026-08-31,Ward and Sons,External Hard Drive,55,376.78,20722.90
+2026-07-14,"Simpson, Jensen and Ellis",Office Chair,91,420.52,38267.32
+2025-04-16,Smith-Foster,Office Chair,38,76.48,2906.24
+2026-10-16,"James, Atkins and Alexander",Office Chair,3,213.84,641.52
+2025-12-01,"Mccann, Taylor and Flores",Monitor,80,302.52,24201.60
+2026-06-25,Mendoza and Sons,Router,89,238.14,21194.46
+2025-11-06,Carter-Neal,Desktop Computer,56,70.37,3940.72
+2026-01-17,"Casey, Nguyen and Ramirez",Keyboard,56,386.92,21667.52
+2026-09-03,Diaz-Frederick,Office Chair,68,52.54,3572.72
+2025-06-05,"Osborn, White and Saunders",Office Chair,40,489.77,19590.80
+2025-01-21,"Murray, Erickson and Gonzales",Printer,29,219.27,6358.83
+2025-08-15,"Jones, Abbott and Pope",Webcam,22,51.05,1123.10
+2026-06-07,Taylor-Turner,Network Switch,82,75.72,6209.04
+2025-07-16,"Moore, Henderson and Bennett",Network Switch,66,128.07,8452.62
+2025-12-15,"Mendoza, Morales and Hunter",Power Supply,100,229.96,22996.00
+2026-06-22,Stephens-Gibbs,Printer,94,423.99,39855.06
+2025-10-07,"Woodard, Herrera and Little",Router,19,155.84,2960.96
+2025-03-08,Mack Ltd,Desktop Computer,19,168.75,3206.25
+2026-06-01,Jackson-Salazar,Keyboard,23,395.78,9102.94
+2026-03-14,"Byrd, Ross and Goodwin",Monitor,98,498.51,48853.98
+2026-09-11,Rodriguez-Garcia,USB Cable,10,117.09,1170.90
+2025-06-22,"Burgess, Grant and Watts",Webcam,81,324.82,26310.42
+2025-06-21,Brooks-Ford,Desk,97,370.44,35932.68
+2026-06-12,"Vaughn, Hernandez and Cuevas",Webcam,75,295.19,22139.25
+2026-01-10,Phillips Inc,USB Cable,73,422.39,30834.47
+2025-04-01,"Thomas, Collins and Gibson",USB Cable,80,212.81,17024.80
+2025-06-10,"Webb, Alvarez and Kim",Router,81,208.18,16862.58
+2026-06-26,Flores-Evans,Monitor,57,45.75,2607.75
+2026-09-22,"Wilson, Sweeney and Wong",Desk,57,414.78,23642.46
+2026-06-10,Spears Ltd,Mouse,36,388.59,13989.24
+2025-07-09,"Thompson, Moore and Castro",Laptop,46,333.48,15340.08
+2025-12-25,Salinas Ltd,Desktop Computer,40,303.60,12144.00
+2025-05-24,Davidson Group,Desk,5,38.28,191.40
+2025-11-04,Mclaughlin and Sons,Printer,37,51.28,1897.36
+2025-12-16,"Jordan, Smith and Lewis",USB Cable,12,404.05,4848.60
+2025-08-05,"Stokes, Brown and Garcia",External Hard Drive,65,252.97,16443.05
+2026-02-22,Diaz and Sons,Desk,75,364.27,27320.25
+2025-12-22,Baker Group,Webcam,95,27.88,2648.60
+2026-02-14,"Edwards, Price and Long",Desk,74,428.18,31685.32
+2025-03-30,Bell-Ellis,Keyboard,42,397.49,16694.58
+2025-05-15,"Mccarthy, Evans and Mendez",Desk,65,99.86,6490.90
+2025-03-07,"Anderson, Wilson and Torres",Laptop,58,68.83,3992.14
+2025-05-23,Steele-Dixon,Webcam,44,469.13,20641.72
+2025-11-21,"Taylor, Reyes and Lopez",Desktop Computer,65,424.44,27588.60
+2026-05-09,"Steele, Brewer and Cooke",Monitor,6,163.36,980.16
+2026-03-08,Burns and Sons,Headphones,57,288.97,16471.29
+2025-05-26,Wilkinson-Harvey,Network Switch,67,400.64,26842.88
+2025-10-06,Washington and Sons,Monitor,47,245.35,11531.45
+2026-09-26,Maynard-Wagner,Power Supply,37,254.89,9430.93
+2026-01-20,Cohen-Perry,Office Chair,100,222.75,22275.00
+2026-10-15,Burns-Miller,USB Cable,77,35.31,2718.87
+2025-01-24,Carter LLC,Webcam,81,425.21,34442.01
+2025-06-24,"Roberts, Norman and Cunningham",Printer,9,217.06,1953.54
+2026-08-24,Dunn-Wilson,Desktop Computer,72,445.58,32081.76
+2025-03-30,Hampton-Morrow,Office Chair,37,166.14,6147.18
+2025-10-12,"Carson, Williams and Ball",Headphones,85,395.98,33658.30
+2026-03-01,Fritz Inc,Router,20,219.47,4389.40
+2026-07-26,"Potter, Evans and Kidd",Desktop Computer,75,435.90,32692.50
+2025-12-16,Bailey-Montoya,Monitor,45,204.31,9193.95
+2025-12-08,Rowe and Sons,USB Cable,90,434.93,39143.70
+2025-06-13,"Matthews, Bell and Page",Office Chair,17,390.96,6646.32
+2026-05-07,Martin-Taylor,Headphones,11,203.88,2242.68
+2025-06-10,Trujillo PLC,Network Switch,49,422.71,20712.79
+2025-09-30,"Campbell, Ryan and Morris",Webcam,43,84.75,3644.25
+2026-07-01,Roberts-Adams,USB Cable,90,485.16,43664.40
+2026-10-29,"Duke, Shelton and Davis",USB Cable,68,62.24,4232.32
+2026-08-06,Sellers-Riddle,USB Cable,86,278.48,23949.28
+2026-05-25,Miles and Sons,Network Switch,47,12.94,608.18
+2025-07-13,Dawson and Sons,Printer,40,119.13,4765.20
+2026-08-15,"Long, Thomas and Chen",Keyboard,44,319.68,14065.92
+2026-05-03,Brooks-Jones,Keyboard,29,91.15,2643.35
+2026-09-10,Powell Ltd,Monitor,10,194.85,1948.50
+2025-08-05,"Mayer, Wood and Clements",Router,13,333.71,4338.23
+2025-09-12,"Smith, Schroeder and Oconnor",Webcam,70,485.07,33954.90
+2026-07-22,Reid-Terry,Power Supply,68,25.73,1749.64
+2026-10-23,Flynn Group,USB Cable,44,406.03,17865.32
+2025-06-19,Summers-Simpson,Monitor,77,247.88,19086.76
+2025-09-08,Morgan-Lane,Monitor,21,119.51,2509.71
+2026-03-16,Kramer-Shannon,Router,89,410.42,36527.38
+2026-08-16,Williams Ltd,Webcam,22,473.63,10419.86
+2026-09-01,Smith-Noble,Desk,6,270.26,1621.56
+2025-05-03,Bryant-Braun,Printer,87,472.58,41114.46
+2025-11-29,Forbes and Sons,Keyboard,57,401.15,22865.55
+2026-05-20,Moore-Cantu,Mouse,97,491.56,47681.32
+2025-08-01,Pena LLC,Webcam,58,154.35,8952.30
+2025-03-06,Beck-Banks,Network Switch,31,203.81,6318.11
+2025-02-10,Garrett-Barber,Webcam,61,128.15,7817.15
+2026-08-10,Patterson Inc,Printer,87,374.83,32610.21
+2026-07-01,Smith Group,Desk,60,185.66,11139.60
+2025-03-02,Wheeler PLC,Webcam,49,330.58,16198.42
+2026-06-13,Smith-Dominguez,Network Switch,54,107.20,5788.80
+2026-09-27,Mcneil Group,Router,26,397.27,10329.02
+2026-06-24,Woods and Sons,Monitor,33,35.19,1161.27
+2025-10-25,Cross Inc,USB Cable,62,244.27,15144.74
+2025-03-22,Richardson-Evans,Network Switch,14,467.22,6541.08
+2025-10-25,May Ltd,Router,67,82.70,5540.90
+2025-04-21,Moreno Inc,Mouse,11,106.06,1166.66
+2026-04-20,"Martin, Bell and Lewis",Mouse,58,337.43,19570.94
+2026-08-05,Gillespie PLC,Monitor,56,61.10,3421.60
+2026-06-18,Heath-Miller,Power Supply,29,296.65,8602.85
+2025-03-20,Goodwin PLC,Power Supply,45,18.47,831.15
+2026-07-22,Bell-Jordan,Office Chair,7,260.82,1825.74
+2026-09-07,Wright Ltd,Network Switch,48,155.51,7464.48
+2025-03-07,Tran PLC,Office Chair,11,246.70,2713.70
+2026-07-15,"Mitchell, Pugh and Johnson",Keyboard,4,209.85,839.40
+2026-10-20,"Liu, Harris and Lawson",Power Supply,13,469.38,6101.94
+2025-05-27,"Myers, Lucas and Bowers",USB Cable,43,96.71,4158.53
+2026-09-09,Simpson Inc,Monitor,5,189.00,945.00
+2025-07-07,Little-Jones,Power Supply,61,457.17,27887.37
+2025-01-10,Peck-Anderson,Router,18,498.31,8969.58
+2026-10-14,"Fisher, Payne and Thompson",Headphones,61,294.99,17994.39
+2026-01-01,Smith Inc,External Hard Drive,1,52.92,52.92
+2025-01-11,Lewis-Livingston,Laptop,33,142.33,4696.89
+2026-09-06,Hunter-Fuller,Router,20,360.66,7213.20
+2026-01-25,Henderson-Morales,Headphones,78,346.88,27056.64
+2026-05-13,"Medina, Hernandez and Miller",Office Chair,15,189.81,2847.15
+2025-03-03,"Mccall, Mccann and Moore",Keyboard,39,80.85,3153.15
+2025-09-11,Willis-Hines,Laptop,31,276.13,8560.03
+2026-05-20,"Day, Collins and Kim",USB Cable,80,300.57,24045.60
+2026-10-20,Brown Inc,Desktop Computer,15,328.56,4928.40
+2025-12-04,Chavez PLC,External Hard Drive,69,11.77,812.13
+2025-02-12,Wade-Barrett,USB Cable,66,377.86,24938.76
+2025-05-17,Smith and Sons,Keyboard,92,95.09,8748.28
+2026-06-29,Martin LLC,Mouse,55,2.02,111.10
+2026-02-11,"Logan, Le and Jackson",External Hard Drive,46,158.65,7297.90
+2025-04-09,"Norman, Adams and Tanner",External Hard Drive,54,123.75,6682.50
+2026-08-23,Rogers Group,USB Cable,86,57.10,4910.60
+2025-07-31,"Brown, Joseph and Ray",Network Switch,47,45.35,2131.45
+2025-03-01,Gibson-Ward,Network Switch,70,333.48,23343.60
+2026-01-24,"Jackson, Moore and Ayala",Webcam,65,364.16,23670.40
+2026-03-22,"Sharp, Perez and Hicks",Laptop,50,309.10,15455.00
+2025-02-04,Sanchez Group,Laptop,82,254.54,20872.28
+2025-10-10,Mora-White,Printer,33,490.76,16195.08
+2026-10-29,Tran Ltd,Laptop,46,45.27,2082.42
+2026-07-30,"Barnes, Morris and Butler",Printer,31,481.34,14921.54
+2026-07-14,Nelson-Miller,USB Cable,81,68.93,5583.33
+2025-10-17,Shaw Inc,Webcam,75,482.81,36210.75
+2025-05-20,Brock Inc,Webcam,43,88.43,3802.49
+2025-11-08,Wiley LLC,Laptop,46,358.83,16506.18
+2026-08-24,Murphy-Tran,Printer,83,115.74,9606.42
+2025-01-07,Gonzalez-Elliott,Router,100,449.71,44971.00
+2025-08-25,"Dean, Marshall and Vargas",Desk,90,314.61,28314.90
+2026-01-19,Oconnor PLC,USB Cable,24,89.37,2144.88
+2026-08-14,Hernandez Group,Desktop Computer,92,300.94,27686.48
+2025-01-19,Weaver Ltd,Laptop,38,133.11,5058.18
+2026-10-15,"Wiley, Tapia and Smith",Laptop,26,28.46,739.96
+2026-05-26,Sweeney-Acosta,Printer,40,338.76,13550.40
+2025-03-22,Moreno and Sons,Office Chair,70,311.24,21786.80
+2025-11-23,Woodward-Kaufman,Mouse,5,494.67,2473.35
+2025-04-21,"Ramirez, Williams and Hall",USB Cable,25,188.50,4712.50
+2026-10-19,"Gutierrez, Huang and Ellis",Printer,100,32.32,3232.00
+2026-08-04,Carpenter PLC,Router,84,218.53,18356.52
+2025-04-14,"Wilkins, Jones and Bradley",Mouse,16,242.18,3874.88
+2025-12-04,"Brandt, Young and Green",Office Chair,52,488.13,25382.76
+2025-09-02,Haynes-Moss,Desk,50,223.19,11159.50
+2025-09-05,Nelson-Jones,Monitor,64,454.55,29091.20
+2025-06-07,Chan PLC,Desk,48,341.31,16382.88
+2025-03-26,Garcia Group,Mouse,11,477.50,5252.50
+2025-12-28,Russell-Herrera,Office Chair,11,283.20,3115.20
+2026-08-22,Hayes Group,External Hard Drive,24,358.48,8603.52
+2025-07-25,Davis Ltd,Mouse,42,68.23,2865.66
+2025-08-25,"Terry, Williams and Huff",Desktop Computer,42,434.14,18233.88
+2025-09-12,Davis and Sons,Mouse,40,293.23,11729.20
+2025-10-04,Palmer-Byrd,External Hard Drive,92,280.25,25783.00
+2025-07-22,Johnson Group,Monitor,89,291.91,25979.99
+2026-10-26,Hawkins-Pierce,Printer,58,28.75,1667.50
+2025-03-15,Garcia-Leon,Headphones,46,403.94,18581.24
+2025-04-05,Brown and Sons,Office Chair,36,420.08,15122.88
+2025-04-12,Colon LLC,Webcam,8,50.17,401.36
+2026-06-18,"Pace, Miller and Willis",USB Cable,82,267.21,21911.22
+2026-09-24,Johnson Inc,Printer,66,492.45,32501.70
+2025-06-03,"Ramos, Anderson and Stein",USB Cable,21,21.40,449.40
+2026-10-07,Martinez-Dunlap,Monitor,78,445.39,34740.42
+2025-02-09,Glass Group,Webcam,57,23.80,1356.60
+2026-10-01,"Foster, Johnson and Vega",Monitor,9,155.66,1400.94
+2025-05-15,Lewis-Lopez,Webcam,83,241.07,20008.81
+2025-08-06,Stephenson-Johnson,Printer,50,372.74,18637.00
+2026-04-26,"Sanchez, Phillips and Jenkins",Laptop,78,101.55,7920.90
+2026-03-04,Brown-Ramirez,USB Cable,58,244.11,14158.38
+2025-04-17,Gonzalez-Wilkerson,Printer,57,51.38,2928.66
+2026-02-13,Mccoy PLC,External Hard Drive,18,347.98,6263.64
+2026-09-10,Mayo Ltd,Printer,51,207.03,10558.53
+2025-10-06,Stephens-Washington,USB Cable,36,164.58,5924.88
+2026-03-16,"Morris, Nelson and Johnson",Desktop Computer,4,483.13,1932.52
+2026-04-09,Johnson LLC,Monitor,64,340.30,21779.20
+2025-02-15,Moreno-Wang,Office Chair,72,78.17,5628.24
+2025-06-30,Garcia Ltd,Mouse,100,171.58,17158.00
+2025-07-07,Ferguson-Moody,Headphones,58,141.62,8213.96
+2026-07-27,Gallagher and Sons,External Hard Drive,37,455.80,16864.60
+2026-03-24,Kelly-Combs,Power Supply,63,132.18,8327.34
+2026-10-19,Thompson PLC,Desktop Computer,18,49.53,891.54
+2025-09-05,"Wolfe, Sloan and Johnson",Desk,23,468.51,10775.73
+2026-06-29,Meza-Elliott,Desk,12,447.90,5374.80
+2026-03-14,Copeland Group,Router,41,438.67,17985.47
+2026-02-26,Thompson-Johnson,Printer,91,43.55,3963.05
+2025-02-13,Guzman Inc,Network Switch,70,191.29,13390.30
+2026-02-13,Smith-Hardin,Power Supply,39,104.22,4064.58
+2025-06-06,Peterson and Sons,Headphones,91,459.89,41849.99
+2026-09-16,Brown-Hernandez,USB Cable,23,237.90,5471.70
+2026-07-02,Schroeder PLC,Network Switch,29,80.53,2335.37
+2025-10-11,Brooks Ltd,Keyboard,18,156.14,2810.52
+2025-11-04,"Garcia, Turner and Taylor",Webcam,64,18.22,1166.08
+2025-05-03,"Fry, Conner and Yu",Printer,71,376.04,26698.84
+2026-05-20,Thompson-Novak,Printer,60,362.52,21751.20
+2026-06-23,"Buchanan, Walker and Chapman",Monitor,79,57.50,4542.50
+2025-05-17,Parker-Barker,Desktop Computer,40,261.93,10477.20
+2025-04-09,Daniel Ltd,Headphones,93,314.69,29266.17
+2026-03-21,Rosales-Townsend,Network Switch,53,269.32,14273.96
+2026-03-17,White LLC,Router,74,49.33,3650.42
+2026-09-21,"Walker, Cunningham and Zuniga",Monitor,41,421.96,17300.36
+2025-04-20,Mcgee-Young,Desktop Computer,58,306.28,17764.24
+2025-09-06,Fields Inc,USB Cable,67,226.78,15194.26
+2026-10-01,"Santiago, Daniel and Rogers",Monitor,100,362.30,36230.00
+2025-01-09,Clark-Steele,USB Cable,76,120.25,9139.00
+2025-09-30,Buchanan-Le,Webcam,17,284.52,4836.84
+2025-02-07,Kim-Barnes,Network Switch,8,82.37,658.96
+2025-05-10,Snyder-Gray,Network Switch,20,200.31,4006.20
+2026-03-01,Garcia-Mendoza,Monitor,21,212.45,4461.45
+2026-03-25,"Chang, Perez and Hayes",Power Supply,91,148.76,13537.16
+2026-09-13,Phillips LLC,Printer,67,187.15,12539.05
+2025-07-22,Jones and Sons,Router,11,165.23,1817.53
+2025-10-19,Dennis PLC,Keyboard,82,361.99,29683.18
+2025-03-14,Wheeler-Austin,Mouse,17,410.61,6980.37
+2026-01-10,"Johnson, Dunlap and Martin",Mouse,79,350.62,27698.98
+2025-12-04,Brown LLC,Desktop Computer,65,421.07,27369.55
+2025-06-09,Ortiz PLC,Monitor,76,381.53,28996.28
+2026-07-15,"Fernandez, Guerrero and Evans",Monitor,22,432.70,9519.40
+2025-03-16,Long PLC,External Hard Drive,93,397.58,36974.94
+2026-10-15,Hernandez-Ward,Printer,73,27.99,2043.27
+2025-11-29,Phillips Ltd,Router,4,54.23,216.92
+2026-05-01,"Castillo, Davis and Clark",Laptop,83,378.99,31456.17
+2026-05-11,Rowland-Wells,Mouse,84,139.15,11688.60
+2025-03-31,Glover-Ruiz,Webcam,74,274.01,20276.74
+2026-05-29,Davis-Stephens,External Hard Drive,82,20.84,1708.88
+2025-05-24,Mcclure-Wood,Desk,81,358.54,29041.74
+2025-12-13,Baker Group,Mouse,83,198.98,16515.34
+2025-07-24,Hood PLC,Desk,32,449.91,14397.12
+2025-02-17,Goodwin Ltd,Office Chair,39,298.23,11630.97
+2025-03-17,Barnett PLC,Desktop Computer,89,40.26,3583.14
+2025-11-18,"Perez, Brown and Hughes",Monitor,57,273.38,15582.66
+2026-02-10,Sheppard-Mcdaniel,Desk,60,134.70,8082.00
+2026-01-04,"Keith, Alvarez and Miller",Printer,78,95.15,7421.70
+2026-10-26,"Johnson, Duncan and Black",Printer,92,210.26,19343.92
+2026-03-20,"Mcgrath, Hernandez and Avery",Headphones,45,262.30,11803.50
+2025-12-15,Rush and Sons,Monitor,98,243.83,23895.34
+2025-06-14,Martinez Group,Network Switch,72,70.58,5081.76
+2025-03-02,"Graham, Osborn and Burton",Printer,31,306.70,9507.70
+2026-10-10,"Scott, Bartlett and Sloan",Desktop Computer,35,295.64,10347.40
+2025-02-22,Hughes Group,Keyboard,19,64.44,1224.36
+2026-03-05,Gates-Stone,Laptop,38,252.75,9604.50
+2025-01-10,"Dean, Mills and Barnes",Router,79,275.02,21726.58
+2025-11-18,Hernandez PLC,Keyboard,21,215.58,4527.18
+2026-03-29,Buckley PLC,Power Supply,74,473.59,35045.66
+2026-08-29,Floyd PLC,Printer,25,105.42,2635.50
+2025-09-25,Baker-Pena,Desk,66,306.93,20257.38
+2026-03-21,"Kennedy, Jackson and Powell",Desk,40,326.95,13078.00
+2026-04-26,"Becker, Morales and Foster",Laptop,12,258.71,3104.52
+2025-09-15,"Young, Reese and Mccall",Network Switch,59,158.76,9366.84
+2025-10-17,Morgan LLC,Keyboard,75,232.27,17420.25
+2025-08-30,Cameron-Garrison,Laptop,7,185.38,1297.66
+2026-06-16,Compton and Sons,Desk,77,429.77,33092.29
+2025-04-15,Mccann-Ramos,USB Cable,61,188.26,11483.86
+2026-10-04,Adams-Butler,Network Switch,2,71.44,142.88
+2026-05-17,Lopez and Sons,Office Chair,18,174.32,3137.76
+2026-10-02,Figueroa-Malone,Headphones,47,265.27,12467.69
+2025-10-18,Robertson and Sons,Printer,6,263.52,1581.12
+2025-02-20,Mckinney-Powell,Laptop,73,369.19,26950.87
+2026-08-30,"Suarez, Johnson and Lee",Keyboard,47,363.56,17087.32
+2026-10-09,Hood and Sons,Mouse,10,254.19,2541.90
+2025-01-26,Williams-Ward,Network Switch,58,361.35,20958.30
+2025-06-04,Richardson-Marshall,Mouse,80,446.90,35752.00
+2025-11-05,"Leblanc, Maldonado and Allen",External Hard Drive,16,85.32,1365.12
+2026-01-15,"Griffin, Horne and Wells",Desktop Computer,51,245.57,12524.07
+2026-03-05,Cooper-Monroe,Webcam,44,366.58,16129.52
+2025-07-20,"Rivas, Davis and Johnson",Printer,97,95.54,9267.38
+2025-02-08,Nash and Sons,Keyboard,78,334.65,26102.70
+2026-10-28,Holland Ltd,Office Chair,65,27.38,1779.70
+2025-06-10,Pearson-Palmer,Laptop,5,90.80,454.00
+2026-08-30,"Smith, Buck and Holland",Headphones,43,311.47,13393.21
+2026-04-12,Walker PLC,Network Switch,59,98.60,5817.40
+2026-09-18,Marquez-Fletcher,External Hard Drive,66,92.60,6111.60
+2025-08-02,Woodard-York,Printer,79,209.75,16570.25
+2025-12-23,Robinson-Turner,Monitor,51,405.02,20656.02
+2026-02-09,"Sanders, Garcia and Hunt",Headphones,39,390.10,15213.90
+2026-05-30,Hoffman-Wheeler,Printer,65,335.04,21777.60
+2025-08-08,Cohen-Olson,Network Switch,63,465.47,29324.61
+2025-09-19,Davidson-Hensley,External Hard Drive,39,312.22,12176.58
+2025-07-22,"Dawson, Stafford and Evans",Router,3,242.40,727.20
+2025-04-27,"Cannon, Yoder and Trujillo",Printer,87,72.83,6336.21
+2026-09-16,"Powell, Flores and Taylor",Office Chair,75,202.63,15197.25
+2025-01-20,"Jimenez, Phillips and Meadows",Webcam,93,451.91,42027.63
+2025-11-11,Doyle-Aguilar,USB Cable,4,392.19,1568.76
+2026-03-21,Cooper Ltd,Desk,34,430.64,14641.76
+2025-06-22,"Nichols, Glover and Knox",Webcam,100,380.10,38010.00
+2026-06-06,Romero-Bruce,External Hard Drive,30,473.77,14213.10
+2026-10-15,"Walter, White and Davis",Laptop,75,315.86,23689.50
+2025-04-10,"Green, Stokes and Hines",Monitor,68,413.23,28099.64
+2025-05-23,"Lam, Pena and Walker",Headphones,80,250.16,20012.80
+2025-06-23,"Savage, Fisher and Eaton",Monitor,88,159.72,14055.36
+2025-10-16,Richards-Ford,Laptop,74,460.09,34046.66
+2025-04-02,Brown-Walters,Desktop Computer,25,13.41,335.25
+2026-03-27,"Jones, Preston and Mason",Desk,41,275.45,11293.45
+2026-06-13,Moreno-Gutierrez,Monitor,53,453.52,24036.56
+2026-10-26,Taylor and Sons,Keyboard,53,329.87,17483.11
+2025-09-24,Benitez-Orozco,Webcam,79,310.07,24495.53
+2025-12-22,Stewart Ltd,Router,95,477.71,45382.45
+2025-05-21,Freeman Ltd,Laptop,91,91.49,8325.59
+2025-05-18,Walters-Smith,Network Switch,27,368.58,9951.66
+2025-08-01,Juarez and Sons,Printer,85,314.50,26732.50
+2026-03-24,Burns Inc,Network Switch,49,206.62,10124.38
+2025-04-11,"Hamilton, Jordan and Patterson",Monitor,59,350.39,20673.01
+2026-01-06,Smith-Ferguson,Printer,70,233.18,16322.60
+2026-07-22,Dodson-Mcclain,USB Cable,99,473.46,46872.54
+2026-08-11,"Lee, Rhodes and Sims",USB Cable,83,455.36,37794.88
+2025-07-13,Steele LLC,Mouse,79,318.31,25146.49
+2025-08-31,Garcia PLC,Keyboard,32,183.84,5882.88
+2026-04-03,Jackson-Colon,Network Switch,39,148.36,5786.04
+2025-08-20,Bryant-Meyer,Mouse,99,190.40,18849.60
+2026-02-12,Hamilton-Mcdaniel,Headphones,27,453.35,12240.45
+2025-04-14,Ferrell-Henry,Headphones,63,208.77,13152.51
+2026-08-06,Martin Group,Desk,45,368.32,16574.40
+2025-01-15,Walker and Sons,Power Supply,93,180.21,16759.53
+2025-06-14,"Johnson, Wagner and Martinez",Mouse,16,376.83,6029.28
+2026-07-07,"Conner, Brooks and Bowman",USB Cable,70,249.83,17488.10
+2026-08-23,"Dean, Wheeler and Williams",Power Supply,51,227.18,11586.18
+2025-03-25,"Huff, Williams and Wilson",Webcam,19,191.35,3635.65
+2025-12-12,Martinez-King,Laptop,37,469.01,17353.37
+2026-06-30,Harris Ltd,Desktop Computer,45,290.91,13090.95
+2026-05-05,Turner Ltd,USB Cable,33,490.77,16195.41
+2025-03-20,"Meyer, Dean and Haynes",Desk,28,133.42,3735.76
+2025-11-22,Hunt PLC,Router,69,178.68,12328.92
+2025-04-02,Wilson-Rodriguez,Power Supply,72,457.24,32921.28
+2025-06-04,"Gonzalez, Baker and Mills",Mouse,18,72.58,1306.44
+2025-06-06,Warner-Phillips,External Hard Drive,95,385.58,36630.10
+2025-01-31,"Crawford, Clark and Fitzpatrick",Keyboard,32,34.26,1096.32
+2025-09-14,Smith Ltd,USB Cable,68,148.89,10124.52
+2025-03-11,Conley Ltd,USB Cable,30,35.40,1062.00
+2026-01-19,Herring PLC,Desktop Computer,53,217.46,11525.38
+2025-02-28,"Cummings, Conway and Newman",Headphones,61,66.89,4080.29
+2025-12-21,Baker-Williams,USB Cable,99,91.09,9017.91
+2026-09-24,Sawyer LLC,Laptop,71,104.50,7419.50
+2025-10-07,"Edwards, Rodgers and Davis",Office Chair,84,312.75,26271.00
+2026-08-12,Smith and Sons,Desk,84,131.71,11063.64
+2026-05-31,"Jackson, Howard and Kim",Webcam,37,211.48,7824.76
+2026-04-28,Johns-Davis,Mouse,83,39.77,3300.91
+2026-09-26,White-Morales,Power Supply,99,59.62,5902.38
+2025-12-21,Houston-Vaughn,USB Cable,74,153.18,11335.32
+2026-01-07,Banks-Robles,Network Switch,95,474.90,45115.50
+2025-03-29,Horton Inc,Router,5,115.73,578.65
+2026-10-18,Garcia PLC,Office Chair,23,24.81,570.63
