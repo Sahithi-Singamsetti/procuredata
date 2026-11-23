@@ -104,6 +104,14 @@ Install the required packages if they are not already available:
 pip install pandas Faker openpyxl pytest
 ```
 
+### Streamlit Application
+
+To launch the ProcureIQ application, run the following command from the project root:
+
+```powershell
+streamlit run app.py
+```
+
 ### 1. Generate the clean dataset
 
 ```powershell
