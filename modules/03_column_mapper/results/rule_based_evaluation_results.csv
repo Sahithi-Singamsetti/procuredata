@@ -1,0 +1,161 @@
+file_name,original_header,actual_field,predicted_field,score,status,correct
+file_01.csv,Goods Description,description,description,100,matched,True
+file_01.csv,Qty,quantity,quantity,100,matched,True
+file_01.csv,Price per Item,unit_price,unit_price,100,matched,True
+file_01.csv,Amount,total_spend,,0,needs_review,False
+file_01.csv,Vendor,supplier,supplier,100,matched,True
+file_01.csv,Mfr,manufacturer,manufacturer,100,matched,True
+file_01.csv,Catalog Number,part_number,part_number,100,matched,True
+file_01.csv,Procurement Date,date,date,100,matched,True
+file_02.csv,Material Description,description,description,100,matched,True
+file_02.csv,Order Quantity,quantity,quantity,100,matched,True
+file_02.csv,Individual Cost,unit_price,unit_price,65,matched,True
+file_02.csv,Net Amount,total_spend,total_spend,100,matched,True
+file_02.csv,Seller,supplier,supplier,100,matched,True
+file_02.csv,Produced By,manufacturer,manufacturer,50,matched,True
+file_02.csv,Code,part_number,,0,needs_review,False
+file_02.csv,Transaction Date,date,date,100,matched,True
+file_03.csv,Goods Description,description,description,100,matched,True
+file_03.csv,Qty,quantity,quantity,100,matched,True
+file_03.csv,Price per Item,unit_price,unit_price,100,matched,True
+file_03.csv,Total Amount,total_spend,total_spend,100,matched,True
+file_03.csv,Supplier,supplier,supplier,100,matched,True
+file_03.csv,Produced By,manufacturer,manufacturer,50,matched,True
+file_03.csv,Part Number,part_number,part_number,100,matched,True
+file_03.csv,Date Ordered,date,date,100,matched,True
+file_04.csv,Material Description,description,description,100,matched,True
+file_04.csv,No. of Items,quantity,quantity,50,matched,True
+file_04.csv,Price,unit_price,,0,needs_review,False
+file_04.csv,Ext Amt,total_spend,total_spend,100,matched,True
+file_04.csv,Vendor,supplier,supplier,100,matched,True
+file_04.csv,Brand Owner,manufacturer,manufacturer,85,matched,True
+file_04.csv,Manufacturer Part No.,part_number,part_number,100,matched,True
+file_04.csv,Transaction Date,date,date,100,matched,True
+file_05.csv,Item Desc.,description,description,100,matched,True
+file_05.csv,Purchase Qty,quantity,quantity,85,matched,True
+file_05.csv,Unit Price,unit_price,unit_price,100,matched,True
+file_05.csv,Extended Cost,total_spend,total_spend,100,matched,True
+file_05.csv,Paying Party,supplier,supplier,50,matched,True
+file_05.csv,Company,manufacturer,,0,needs_review,False
+file_05.csv,Item Number,part_number,part_number,100,matched,True
+file_05.csv,Procurement Date,date,date,100,matched,True
+file_06.csv,Item Desc.,description,description,100,matched,True
+file_06.csv,No. of Items,quantity,quantity,50,matched,True
+file_06.csv,Unit Price,unit_price,unit_price,100,matched,True
+file_06.csv,Ext Amt,total_spend,total_spend,100,matched,True
+file_06.csv,Paying Party,supplier,supplier,50,matched,True
+file_06.csv,OEM,manufacturer,manufacturer,100,matched,True
+file_06.csv,Manufacturer Part No.,part_number,part_number,100,matched,True
+file_06.csv,Purchase Timestamp,date,date,65,matched,True
+file_07.csv,Item Information,description,description,65,matched,True
+file_07.csv,Count,quantity,,0,needs_review,False
+file_07.csv,Unit Cost,unit_price,unit_price,100,matched,True
+file_07.csv,Extended Cost,total_spend,total_spend,100,matched,True
+file_07.csv,Supplying Company,supplier,supplier,50,matched,True
+file_07.csv,Brand,manufacturer,manufacturer,100,matched,True
+file_07.csv,Item Number,part_number,part_number,100,matched,True
+file_07.csv,PO Creation Date,date,date,85,matched,True
+file_08.csv,Item Information,description,description,65,matched,True
+file_08.csv,Quantity (EA),quantity,quantity,100,matched,True
+file_08.csv,Price/Unit,unit_price,unit_price,100,matched,True
+file_08.csv,Final Line Value,total_spend,total_spend,65,matched,True
+file_08.csv,Name,supplier,,0,needs_review,False
+file_08.csv,OEM,manufacturer,manufacturer,100,matched,True
+file_08.csv,Product Code,part_number,part_number,100,matched,True
+file_08.csv,Purchase Timestamp,date,date,65,matched,True
+file_09.csv,Item Information,description,description,65,matched,True
+file_09.csv,Qty Ordered,quantity,quantity,100,matched,True
+file_09.csv,Unit Price,unit_price,unit_price,100,matched,True
+file_09.csv,Final Line Value,total_spend,total_spend,65,matched,True
+file_09.csv,Supplier Name,supplier,supplier,100,matched,True
+file_09.csv,Manufacturer,manufacturer,manufacturer,100,matched,True
+file_09.csv,Catalog Number,part_number,part_number,100,matched,True
+file_09.csv,Date,date,,0,needs_review,False
+file_10.csv,Details,description,,0,needs_review,False
+file_10.csv,Quantity,quantity,quantity,100,matched,True
+file_10.csv,Price/Unit,unit_price,unit_price,100,matched,True
+file_10.csv,Extended Amount,total_spend,total_spend,65,matched,True
+file_10.csv,Supplier Name,supplier,supplier,100,matched,True
+file_10.csv,OEM,manufacturer,manufacturer,100,matched,True
+file_10.csv,Item Reference,part_number,part_number,85,matched,True
+file_10.csv,Order Date,date,date,100,matched,True
+file_11.csv,Product Name,description,description,100,matched,True
+file_11.csv,Qty Ordered,quantity,quantity,100,matched,True
+file_11.csv,Individual Cost,unit_price,unit_price,65,matched,True
+file_11.csv,Amount,total_spend,,0,needs_review,False
+file_11.csv,Vendor Name,supplier,supplier,100,matched,True
+file_11.csv,OEM,manufacturer,manufacturer,100,matched,True
+file_11.csv,Item Reference,part_number,part_number,85,matched,True
+file_11.csv,Procurement Date,date,date,100,matched,True
+file_12.csv,Product Name,description,description,100,matched,True
+file_12.csv,Qty,quantity,quantity,100,matched,True
+file_12.csv,Price per Item,unit_price,unit_price,100,matched,True
+file_12.csv,Total Cost,total_spend,total_spend,100,matched,True
+file_12.csv,Seller,supplier,supplier,100,matched,True
+file_12.csv,Produced By,manufacturer,manufacturer,50,matched,True
+file_12.csv,Code,part_number,,0,needs_review,False
+file_12.csv,Procurement Date,date,date,100,matched,True
+file_13.csv,Item Desc.,description,description,100,matched,True
+file_13.csv,Qty,quantity,quantity,100,matched,True
+file_13.csv,Price per Item,unit_price,unit_price,100,matched,True
+file_13.csv,Ext Amt,total_spend,total_spend,100,matched,True
+file_13.csv,Supplier Name,supplier,supplier,100,matched,True
+file_13.csv,Mfr Name,manufacturer,manufacturer,85,matched,True
+file_13.csv,Part Number,part_number,part_number,100,matched,True
+file_13.csv,Purchase Date,date,date,100,matched,True
+file_14.csv,Product Name,description,description,100,matched,True
+file_14.csv,Purchase Qty,quantity,quantity,85,matched,True
+file_14.csv,Price,unit_price,,0,needs_review,False
+file_14.csv,Total Cost,total_spend,total_spend,100,matched,True
+file_14.csv,Payee,supplier,supplier,100,matched,True
+file_14.csv,Produced By,manufacturer,manufacturer,50,matched,True
+file_14.csv,Part Number,part_number,part_number,100,matched,True
+file_14.csv,Order Date,date,date,100,matched,True
+file_15.csv,Goods Description,description,description,100,matched,True
+file_15.csv,No. of Items,quantity,quantity,50,matched,True
+file_15.csv,Unit Price,unit_price,unit_price,100,matched,True
+file_15.csv,Total Amount,total_spend,total_spend,100,matched,True
+file_15.csv,Paying Party,supplier,supplier,50,matched,True
+file_15.csv,Company,manufacturer,,0,needs_review,False
+file_15.csv,Item Number,part_number,part_number,100,matched,True
+file_15.csv,PO Date,date,date,100,matched,True
+file_16.csv,Item Desc.,description,description,100,matched,True
+file_16.csv,Purchase Qty,quantity,quantity,85,matched,True
+file_16.csv,Price/Unit,unit_price,unit_price,100,matched,True
+file_16.csv,Extended Cost,total_spend,total_spend,100,matched,True
+file_16.csv,Paying Party,supplier,supplier,50,matched,True
+file_16.csv,Mfr,manufacturer,manufacturer,100,matched,True
+file_16.csv,Manufacturer Part No.,part_number,part_number,100,matched,True
+file_16.csv,PO Creation Date,date,date,85,matched,True
+file_17.csv,Goods Details,description,description,50,matched,True
+file_17.csv,Count,quantity,,0,needs_review,False
+file_17.csv,Price/Unit,unit_price,unit_price,100,matched,True
+file_17.csv,Net Amount,total_spend,total_spend,100,matched,True
+file_17.csv,Paying Party,supplier,supplier,50,matched,True
+file_17.csv,OEM,manufacturer,manufacturer,100,matched,True
+file_17.csv,Manufacturer Part No.,part_number,part_number,100,matched,True
+file_17.csv,Purchase Timestamp,date,date,65,matched,True
+file_18.csv,Goods Details,description,description,50,matched,True
+file_18.csv,Quantity (EA),quantity,quantity,100,matched,True
+file_18.csv,Cost Per Unit,unit_price,unit_price,100,matched,True
+file_18.csv,Overall Spend,total_spend,total_spend,50,matched,True
+file_18.csv,Name,supplier,,0,needs_review,False
+file_18.csv,Manufacturer,manufacturer,manufacturer,100,matched,True
+file_18.csv,MPN,part_number,part_number,100,matched,True
+file_18.csv,Order Timestamp,date,date,65,matched,True
+file_19.csv,Item Information,description,description,65,matched,True
+file_19.csv,Quantity,quantity,quantity,100,matched,True
+file_19.csv,Unit Price,unit_price,unit_price,100,matched,True
+file_19.csv,Final Line Value,total_spend,total_spend,65,matched,True
+file_19.csv,Supplier Name,supplier,supplier,100,matched,True
+file_19.csv,Brand,manufacturer,manufacturer,100,matched,True
+file_19.csv,Mfr Code,part_number,,0,needs_review,False
+file_19.csv,Date,date,,0,needs_review,False
+file_20.csv,Details,description,,0,needs_review,False
+file_20.csv,Quantity,quantity,quantity,100,matched,True
+file_20.csv,Price/Unit,unit_price,unit_price,100,matched,True
+file_20.csv,Extended Amount,total_spend,total_spend,65,matched,True
+file_20.csv,Payee,supplier,supplier,100,matched,True
+file_20.csv,OEM,manufacturer,manufacturer,100,matched,True
+file_20.csv,Mfr Code,part_number,,0,needs_review,False
+file_20.csv,Purchase Date,date,date,100,matched,True
